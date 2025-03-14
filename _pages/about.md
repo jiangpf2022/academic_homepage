@@ -73,7 +73,7 @@ Because of the irregularities on the object's surface and variations in lighting
 
 <!-- Project -->
 
-## Autonomous Suture Robot System for Endoscopic Surgery
+## Multi-Layer Perceptron for Optimal Equity Derivative Hedging
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -82,7 +82,8 @@ Because of the irregularities on the object's surface and variations in lighting
 </div>
 <div class='paper-box-text' markdown="1">
 
-The research objective is to enhance the efficiency and accuracy of autonomous suturing in endoscopic surgery. This involves designing a 3DOF autonomous suturing instrument, developing an efficient laparoscopic surgery robot based on 3D laparoscopy, and establishing a robot system that integrates visual, expert, and navigation systems.
+Because of the inherent volatility in options markets and the intricate interplay between price fluctuations and exposure, single-point strategies often fail to adequately address the dynamic risk profiles in equity derivative hedging. To tackle these challenges, this project proposes a practical hedging framework that integrates real-time data processing, a novel labeling method for risk-return assessment, and a neural network for accurate decision-making. 
+
 
 </div><div markdown="1">
 
