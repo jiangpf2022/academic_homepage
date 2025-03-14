@@ -16,12 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+<h2 style="color:red"> NOTE: THIS WEBSITE IS UNDER CONSTRUCTION, ALL OF THE INFORMATIONS ARE NOT ME UP TO NOW.</h2>
 
-I am currently a PhD student in the [RAIDS Research Group](https://www.raids.group/) at the [Department of Industrial and Systems Engineering](https://www.polyu.edu.hk/en/ise/) of [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), mainly engaged in the research of robot learning, human-robot collaboration and robot teleoperation.
+I am currently pursuing a B.S. in Computer Science at [ShanghaiTech University](https://www.shanghaitech.edu.cn), with a minor in Mathematics and Applied Mathematics. Since the fall of 2024, I have also been a concurrent international student at [UC Berkeley](https://www.berkeley.edu/), which has offered me a broader academic perspective and numerous opportunities for cross-disciplinary collaboration.  
 
-I earned my bachelor’s degree at School of Mechanical Engineering, Hebei University of Technology ([河北工业大学机械工程学院](https://mes.hebut.edu.cn/)). I then pursued a master’s degree at the National Key Laboratory of Robot Technology and Systems, Harbin Institute of Technology ([哈尔滨工业大学机器人技术与系统国家重点实验室](http://robot.hit.edu.cn/)). Now, I'm pursuing a doctoral degree at the [RAIDS Research Group](https://www.raids.group/) in The Hong Kong Polytechnic University, under the guidance of [Prof. Pai Zheng](https://www.polyu.edu.hk/ise/people/academic-staff/pai-zheng/).
+I joined the Mobile Perception Lab at ShanghaiTech University since the spring of 2023, where I work under the guidance of Ph.D. student Hang Su and Prof. Laurent Kneip. My previous projects primarily focused on event-camera-based SLAM for real-time 3D environment understanding and robust motion tracking in dynamic scenarios.
 
-My research interest includes robot learning, human-robot collaboration. I have submitted 5 papers in SCI journals, applied 1 invention patent, authorized 3 utility model patents and 1 software copyright.
+My research interests span computer vision, SLAM (Simultaneous Localization and Mapping), machine learning and deep learning. 
+
 
 
 
@@ -32,9 +34,12 @@ My research interest includes robot learning, human-robot collaboration. I have 
 -->
 
 # 📖 Educations
-- *2024.09 - now*, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), Hong Kong.
-- *2022.09 - 2024.06*, [Harbin Institute of Technology](https://www.hit.edu.cn/), Harbin, (Score: 90.65, rank: 13/177).
-- *2018.09 - 2022.06*, [Hebei University of Technology](https://www.hebut.edu.cn/), Tianjin, (GPA: 3.95/4, rank: 1/133).
+- *Aug 2024 - Jun 2025*, [University of California, Berkeley](https://www.berkeley.edu/), Berkeley, California,US  
+  Concurrent International in GLOBE Program, Major: Computer Science (GPA:3.957/4.0).
+
+- *Sep 2022 - Present*, [ShanghaiTech University](https://www.shanghaitech.edu.cn), Shanghai,China  
+  B.S. in Computer Science, Minor in Mathematics & Applied Math(GPA:3.77/4.0)
+
 
 
 # 🔍 Projects
