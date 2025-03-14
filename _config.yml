@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Panfeng Jiang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "The Hong Kong Polytechnic University"
-  location         : "Hong Kong, China"
+  bio              : "ShanghaiTech University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=9a412VgAAAAJ&hl=en # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "mail@mahaofei.com"
+  email            : "jiangpf2022@shanghaitech.edu.cn"
   researchgate     : https://www.researchgate.net/profile/Haofei-Ma-2 # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : # "https://www.mahaofei.com"
   blog             : "https://www.mahaofei.com"
