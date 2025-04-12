@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<h2 style="color:red"> NOTE: THIS WEBSITE IS UNDER CONSTRUCTION, ALL OF THE INFORMATIONS ARE NOT ME UP TO NOW.</h2>
+<h2 style="color:red"> NOTE: THE WEBSITE IS UNDER CONSTRUCTION, ALL OF THE INFORMATIONS HERE MAY NOT APPROPRIATE RIGHT NOW.</h2>
 
-I am currently pursuing a B.S. in Computer Science at [ShanghaiTech University](https://www.shanghaitech.edu.cn), with a minor in Mathematics and Applied Mathematics. Since the fall of 2024, I have also been a concurrent international student at [UC Berkeley](https://www.berkeley.edu/), which has offered me a broader academic perspective and numerous opportunities for cross-disciplinary collaboration.  
+I am currently pursuing a Bacholer's degree in Computer Science at [ShanghaiTech University](https://www.shanghaitech.edu.cn), with a minor in Mathematics and Applied Mathematics. Since the fall of 2024, I have also been a concurrent international student at [UC Berkeley](https://www.berkeley.edu/), which has offered me a broader academic perspective and numerous opportunities for cross-disciplinary collaboration.  
 
 I joined the Mobile Perception Lab at ShanghaiTech University since the spring of 2023, where I work under the guidance of Ph.D. student Hang Su and Prof. Laurent Kneip. My previous projects primarily focused on event-camera-based SLAM for real-time 3D environment understanding and robust motion tracking in dynamic scenarios.
 
@@ -27,17 +27,17 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 
 
 
-<!-- 
+
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+
 
 # 📖 Educations
-- *Aug 2024 - Jun 2025*, [University of California, Berkeley](https://www.berkeley.edu/), Berkeley, California,US  
+- *Aug 2024 - Jun 2025*, [University of California, Berkeley](https://www.berkeley.edu/)  
   Concurrent International in GLOBE Program, Major: Computer Science (GPA:3.957/4.0).
 
-- *Sep 2022 - Present*, [ShanghaiTech University](https://www.shanghaitech.edu.cn), Shanghai,China  
+- *Sep 2022 - Present*, [ShanghaiTech University](https://www.shanghaitech.edu.cn)  
   B.S. in Computer Science, Minor in Mathematics & Applied Math(GPA:3.77/4.0)
 
 
@@ -77,7 +77,7 @@ Because of the irregularities on the object's surface and variations in lighting
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-<div class="badge">2023.02 - 2023.07</div>
+<div class="badge">Feb 2025 - Mar 2025</div>
 <img src='images/projects/202302_Autonomous_Suture_Operation_Robot_System_for_Endoscopic_Surgery.png' alt="sym" width="100%">
 </div>
 <div class='paper-box-text' markdown="1">
