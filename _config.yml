@@ -27,7 +27,7 @@ author:
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : https://scholar.google.com/citations?user=9a412VgAAAAJ&hl=en # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : #https://scholar.google.com/citations?user=9a412VgAAAAJ&hl=en # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "jiangpf2022@shanghaitech.edu.cn"
   researchgate     : #https://www.researchgate.net/profile/Haofei-Ma-2 # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : # "https://www.mahaofei.com"

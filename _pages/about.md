@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<h2 style="color:red"> NOTE: THE WEBSITE IS UNDER CONSTRUCTION, ALL OF THE INFORMATIONS HERE MAY NOT APPROPRIATE RIGHT NOW.</h2>
+<h2 style="color:red"> NOTE: THE WEBSITE IS UNDER CONSTRUCTION, ALL OF THE INFORMATIONS HERE MAY NOT BE TOTALLY CORRECT RIGHT NOW.</h2>
 
 I am currently pursuing a Bacholer's degree in Computer Science at [ShanghaiTech University](https://www.shanghaitech.edu.cn), with a minor in Mathematics and Applied Mathematics. Since the fall of 2024, I have also been a concurrent international student at [UC Berkeley](https://www.berkeley.edu/), which has offered me a broader academic perspective and numerous opportunities for cross-disciplinary collaboration.  
 
@@ -29,8 +29,8 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.03*: &nbsp;🎉🎉 Our team won the first place at the Bay Area Data Science Summit 2025 with a Multi-Layer Perceptron and greedy strategy for equity derivative hedging, achieving strong performance in cost reduction and risk control.
+- *2022.02*: &nbsp;🎉🎉 Our team participated in the China Undergraduate Mathematical Contest in Modeling (CUMCM) with a project on sequential testing and Markov decision models for production optimization, and won the Provincial Third Prize.
 
 
 # 📖 Educations
@@ -241,7 +241,10 @@ obtain the 6D pose of the object.
 - *2020.12*, The First Prize Scholarship in Hebei University of Technology
 
 ## 🎏 Competitions
-- *2021.09*, “Internet +” Innovation and Entrepreneurship Competition Provincial Silver Award .
+- *Mar 2025*, Bay Area Data Science Summit, First Place.
+- *Sep 2024*, China Undergraduate Mathematical Contest in Modeling (CUMCM), Provincial Third Prize.
+- *Jan 2024*, Mathematical Contest in Modeling & Interdisciplinary Contest in Modeling, S Prize.
+<!-- - *2021.09*, “Internet +” Innovation and Entrepreneurship Competition Provincial Silver Award .
 - *2021.08*, E-commerce “Innovation, Creativity, and Entrepreneurship” Challenge Provincial Third Prize.
 - *2021.07*, Zhou Peiyuan Mechanics Competition Provincial Second Prize and National Excellence Award.
 - *2020.12*, Hebei Province College Robot Competition Seconda Prize.
@@ -250,7 +253,7 @@ obtain the 6D pose of the object.
 - *2020.09*, Mechanical Innovation Design Competition Provincial Second Prize.
 - *2019.12*, Mathematics Competition Provincial First Prize.
 - *2019.09*, iCAN International Innovation and Entrepreneurship Competition Provincial Third Prize.
-- *2019.06*, Mathematics Competition Provincial Second Prize.
+- *2019.06*, Mathematics Competition Provincial Second Prize. -->
 
 # 💼 Societies
 
