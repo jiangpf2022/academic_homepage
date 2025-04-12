@@ -30,7 +30,6 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 Our team won the first place at the Bay Area Data Science Summit 2025 with a Multi-Layer Perceptron and greedy strategy for equity derivative hedging, achieving strong performance in cost reduction and risk control.
-- *2022.02*: &nbsp;🎉🎉 Our team participated in the China Undergraduate Mathematical Contest in Modeling (CUMCM) with a project on sequential testing and Markov decision models for production optimization, and won the Provincial Third Prize.
 
 
 # 📖 Educations
@@ -38,7 +37,7 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
   Concurrent International in GLOBE Program, Major: Computer Science (GPA:3.957/4.0).
 
 - *Sep 2022 - Present*, [ShanghaiTech University](https://www.shanghaitech.edu.cn)  
-  B.S. in Computer Science, Minor in Mathematics & Applied Math(GPA:3.77/4.0)
+  B.S. in Computer Science, Minor in Mathematics & Applied Math(GPA:3.79/4.0)
 
 
 
@@ -213,7 +212,7 @@ obtain the 6D pose of the object.
 - <code class="language-plaintext highlighter-rouge">RAS</code> Hua Bai, Wenrui Gao, **Haofei Ma**, Pengchao Ding, Gongcheng Wang, Wenda Xu, Weidong Wang, Zhijiang Du. "[**A study of robotic search strategy for multi-radiation sources in unknown environments**](https://doi.org/10.1109/JSEN.2024.3364701)." *Robotics and Autonomous Systems* 169 (2023): 104529. doi: [10.1109/JSEN.2024.3364701](https://doi.org/10.1109/JSEN.2024.3364701).
 
 
-## 📚 Patents
+<!-- ## 📚 Patents
 
 - <code class="language-plaintext highlighter-rouge">Invention Patent</code> [**A Rock Core Box Handling Robot**](https://cprs.patentstar.com.cn/Search/Detail?ANE=9DIE1BAA2AAA8CDA8EDA9CIB9BIF9GBC9BED6BDA9HBH9IBE), Weidong Wang, Hengbin Liang, **Haofei Ma**, Gongcheng Wang (CN202310547284.5, Pending)
 
@@ -223,44 +222,24 @@ obtain the 6D pose of the object.
 
 - <code class="language-plaintext highlighter-rouge">Utility Model Patent</code> [**Small Ocean Vehicles Using Wave Energy to Generate Electricity**](https://cprs.patentstar.com.cn/Search/Detail?ANE=9EEB9HFD3ABA3CBA9AIB9GIF8IAA9FADBCIA9BEA9ECDAGGA), Yihan Gao, **Haofei Ma**, Shaoan Chen, Haoran Sun, Chenxi Song (CN202020078465.X)
 
-- <code class="language-plaintext highlighter-rouge">Software Copyright</code> [**Identity Recognition and Infrared Temperature Measurement Control System**](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2021SR1391064&keyWord=%E9%A9%AC%E6%B5%A9%E9%A3%9E&publicityType=ALL&registerDateType=ALL), **Haofei Ma** (2021SR1391064)
+- <code class="language-plaintext highlighter-rouge">Software Copyright</code> [**Identity Recognition and Infrared Temperature Measurement Control System**](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2021SR1391064&keyWord=%E9%A9%AC%E6%B5%A9%E9%A3%9E&publicityType=ALL&registerDateType=ALL), **Haofei Ma** (2021SR1391064) -->
 
 # 🏆 Honors and Awards
 
 ## 🏅 Honors
-- *2024.06*, HeGao Scholarship in Harbin Institute of Technology
-- *2023.12*, Leading Intelligence · Wang Yanqing Scholarship
-- *2023.10*, Excellent Students of Harbin Institute of Technology
-- *2023.09*, Top Grade Scholarship in Harbin Institute of Technology
-- *2022.06*, Provincial Outstanding Graduates (Top 1%)
-- *2021.05*, Provincial Merit Student (Top 1%)
-- *2021.06*, Finely Crafted Technology Scholarship
-- *2021.01*, Outstanding Student in Hebei University of Technology
-- *2020.12*, [National Scholarship](https://mp.weixin.qq.com/s/ulEa10HIwbCN9yk4mXRcVQ) (Top 0.3%)
-- *2020.12*, Excellent Student Cadre in Hebei University of Technology
-- *2020.12*, The First Prize Scholarship in Hebei University of Technology
+- *Dec 2023*, Department Prize for Outstanding Student Performance, 2023
 
 ## 🎏 Competitions
 - *Mar 2025*, Bay Area Data Science Summit, First Place.
 - *Sep 2024*, China Undergraduate Mathematical Contest in Modeling (CUMCM), Provincial Third Prize.
 - *Jan 2024*, Mathematical Contest in Modeling & Interdisciplinary Contest in Modeling, S Prize.
-<!-- - *2021.09*, “Internet +” Innovation and Entrepreneurship Competition Provincial Silver Award .
-- *2021.08*, E-commerce “Innovation, Creativity, and Entrepreneurship” Challenge Provincial Third Prize.
-- *2021.07*, Zhou Peiyuan Mechanics Competition Provincial Second Prize and National Excellence Award.
-- *2020.12*, Hebei Province College Robot Competition Seconda Prize.
-- *2020.10*, Electronic Design Competition Provincial Second Prize.
-- *2020.10*, iCAN International Innovation and Entrepreneurship Competition Provincial Second Prize.
-- *2020.09*, Mechanical Innovation Design Competition Provincial Second Prize.
-- *2019.12*, Mathematics Competition Provincial First Prize.
-- *2019.09*, iCAN International Innovation and Entrepreneurship Competition Provincial Third Prize.
-- *2019.06*, Mathematics Competition Provincial Second Prize. -->
 
 # 💼 Societies
 
-- *2023.02 - 2023.07*, School Office Assistant in Harbin Institute of Technology.
-- *2022.02 - 2022.06*, Class Leader in Hebei University of Technology.
-- *2019.09 - 2022.06*, Class Study Monitor in Hebei University of Technology.
-- *2020.09 - 2021.08*, Director of Haier Key Maker-Lab in Hebei University of Technology.
+- *Jul 2023 - Aug 2023*, Teaching Assistant in New Oriental Education & Technology Group Inc.
+- *Jul 2023 - Mar 2025*, Staff & Referee in Rubik’s Cube competitions, including Bay Area Speedcubin’65 - Berkeley 2024, Berkeley Fall 2024, Berkeley October Weekday Tricubealon 2024, Cool Down Berkeley 2024, and
+Changsha Rubik’s Cube Open 2023..
+- *Aug 2023 - Aug 2024*, served as a volunteer in ShanghaiTech summer camp, Shanghai Planetarium,Shanghai Library as well as Shanghai Marathon 2023.
 
 <!-- 
 # 💬 Invited Talks
