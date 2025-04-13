@@ -58,15 +58,20 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 </div>
 <div class='paper-box-text' markdown="1">
 
-Because of the inherent volatility in options markets and the intricate interplay between price fluctuations and exposure, single-point strategies often fail to adequately address the dynamic risk profiles in equity derivative hedging. To tackle these challenges, this project proposes a practical hedging framework that integrates real-time data processing, a novel labeling method for risk-return assessment, and a neural network for accurate decision-making. 
-
+Due to the inherently high-dimensional dynamics and stochastic volatility in equity derivatives markets, traditional hedging strategies—particularly those based on static or single-point heuristics—are often inadequate for capturing the nuanced trade-offs between risk and return. In response, this project presents a data-driven, end-to-end framework for optimal option hedging that tightly integrates temporal market data modeling with nonlinear decision architectures. The core of our pipeline comprises three key components: (1) a robust preprocessing layer that ensures temporal alignment, imputes missing values under strict market causality constraints, and computes high-fidelity PnL and exposure trajectories for each instrument; (2) an analytically designed label generation scheme that encodes exposure-adjusted profit metrics into smooth, order-preserving scalar targets, facilitating supervised learning under noisy financial feedback; and (3) a fully connected neural model—specifically, a multi-layer perceptron—trained via stratified k-fold cross-validation to generalize risk-aware decision boundaries across nonstationary environments. On top of this predictive backbone, we build a modular trading engine that performs real-time portfolio rebalancing via hierarchical sell-order resolution and label-driven greedy acquisition, iteratively converging to a predefined exposure target. The resulting system functions as an intelligent hedging agent, capable of synthesizing latent patterns across historical time windows and executing structured decisions that adaptively balance downside protection and profitability in volatile option landscapes.
 
 </div><div markdown="1">
 
-**Finished Works**:
-1. Perform the recognition and segmentation of surgical instruments and lesion tissues based on Yolov8, and determine the spatial position of the end of the surgical instruments.
+**Finished Works**:  
+1.Engineered a fault-tolerant data pipeline for financial time series, incorporating custom temporal imputation and non-trading day exclusion logic, ensuring robust option lifecycle reconstruction.
 
-2. Build a vision and robotic arm fusion system, perform hand-eye calibration of cameras and robotic arms, and execute basic robot actions for visual servo.
+2.Proposed and implemented a theoretically grounded labeling function that maps PnL-exposure ratios into continuous preference scores, preserving directional semantics under both positive and negative regimes.
+
+3.Trained a deep MLP architecture with hyperparameter tuning and 5-fold cross-validation, achieving stable generalization across diverse market conditions and minimizing out-of-sample prediction error.
+
+4.Developed a two-stage decision-making algorithm that orchestrates exposure tracking through priority-based liquidation and reallocation, enabling adaptive trade execution under soft budget constraints.
+
+5.Integrated the full pipeline into a real-time simulation framework, supporting continuous decision rollouts, exposure drift correction, and trade performance monitoring at daily resolution.
 
 </div>
 </div>
