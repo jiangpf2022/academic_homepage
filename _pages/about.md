@@ -98,7 +98,7 @@ obtain the 6D pose of the object.
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
-<code class="language-plaintext highlighter-rouge">ICCV</code> **Hang Su**, Yizhou Feng, **Panfeng Jiang**, Daniel Gehrig, Lei Gao, Xavier Lagorce, and Laurent Kneip. "[**An Efficient Asynchronous Point-based Solver for Camera Egomotion Recovery**](#)." *Submitted to the IEEE/CVF International Conference on Computer Vision (ICCV)*, 2025.
+<code class="language-plaintext highlighter-rouge">ICCV</code> Hang Su, Yunlong Feng, Daniel Gehrig, **Panfeng Jiang**, Ling Gao, Xavier Lagorce, Laurent Kneip . "[**An Efficient Asynchronous Point-based Solver for Camera Egomotion Recovery**](#)." *Submitted to the IEEE/CVF International Conference on Computer Vision (ICCV)*, 2025.
 
 <!-- - <code class="language-plaintext highlighter-rouge">IJAMT</code> **Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, and Zhijiang Du. "[**Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**](https://doi.org/10.1007/s00170-024-14372-3)." *The International Journal of Advanced Manufacturing Technology* (2024): 1-11. doi: [10.1007/s00170-024-14372-3](https://doi.org/10.1007/s00170-024-14372-3) -->
 
