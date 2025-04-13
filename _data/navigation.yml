@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "academic_homepage/#about-me"
+    url: "https://jiangpf2022.github.io/academic_homepage/#about-me"
 
   - title: "Educations"
-    url: "academic_homepage/#-educations"
+    url: "https://jiangpf2022.github.io/academic_homepage/#-educations"
 
   - title: "Projects"
-    url: "academic_homepage/#-projects"
+    url: "https://jiangpf2022.github.io/academic_homepage/#-projects"
 
   - title: "Publications"
-    url: "academic_homepage/#-publications"
+    url: "https://jiangpf2022.github.io/academic_homepage/#-publications"
 
   - title: "Honors and Awards"
-    url: "academic_homepage/#-honors-and-awards"
+    url: "https://jiangpf2022.github.io/academic_homepage/#-honors-and-awards"
 
   - title: "Societies"
-    url: "academic_homepage/#-societies"
+    url: "https://jiangpf2022.github.io/academic_homepage/#-societies"
 
   - title: "Availability"
     url: "https://cal.com/gavin-jiang-n907mx"
