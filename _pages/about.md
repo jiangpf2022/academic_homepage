@@ -51,7 +51,7 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div class="badge">Feb 2025 - Mar 2025</div>
-<img src='images/projects/202302_Autonomous_Suture_Operation_Robot_System_for_Endoscopic_Surgery.png' alt="sym" width="100%">
+<img src='images/projects/badss.png' alt="sym" width="100%">
 </div>
 <div class='paper-box-text' markdown="1">
 
