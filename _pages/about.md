@@ -43,32 +43,6 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 
 # 🔍 Projects
 
-<!-- Project -->
-
-## Sampling Robots in Complex Environments
-
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div class="badge">2023.03 - Present</div>
-<img src='images/projects/202303_Sampling_Robots_in_Complex_Environments.png' alt="sym" width="100%">
-</div>
-<div class='paper-box-text' markdown="1">
-
-Because of the irregularities on the object's surface and variations in lighting conditions, point cloud images obtained from a single perspective often contain significant gaps and errors at the object's edges, which can lead to inaccurate grasping pose estimations. To tackle these challenges, this article proposes a practical robot grasping method based on 6D pose estimation and point cloud fusion. First, 6D pose estimation is conducted, utilizing the results from model point cloud and pose estimation to complete the input point cloud through ICP (Iterative Closest Point). Subsequently, the resulting complete object point cloud is used to estimate the 6D grasping pose of the object with the help of the grasping direction estimation network.
-
-</div><div markdown="1">
-
-**Finished Works**:
-1. Establish a model-free 6D pose estimation network based on perspective matching. Construct and train the pose estimation network to achieve precise pose estimation for seen objects and a rough estimation method for untrained objects. Create a pose refinement network for untrained objects when sparse point clouds are accessible.
-
-2. Propose a point cloud fusion and filtering method based on pose estimation. This method addresses the issue of point cloud gaps at the edge of objects when the robot collects samples from a single perspective. The point cloud fusion method is designed to utilize the output of pose estimation to fill in the gaps in the input point cloud and remove noise.
-
-3. Perform grasp pose estimation using the completed point cloud. Utilizing the grasping angle prediction network and a fast search strategy, the completed point cloud enhances the stability of grasping pose generation, thereby improving the success rate of grasping and its robustness.
-
-4. Test the system in simulation and the real world using a 6DoF robot, a Realsense camera, and a laptop (ROS/Ubuntu 20.04) as the host computer.
-
-</div>
-</div>
 
 <!-- Project -->
 
