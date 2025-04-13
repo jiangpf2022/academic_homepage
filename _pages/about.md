@@ -37,7 +37,7 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
   Concurrent International in GLOBE Program, Major: Computer Science (GPA:3.957/4.0).
 
 - *Sep 2022 - Present*, [ShanghaiTech University](https://www.shanghaitech.edu.cn)  
-  B.S. in Computer Science, Minor in Mathematics & Applied Math(GPA:3.79/4.0)
+  B.Eng. in Computer Science, Minor in Mathematics & Applied Math(GPA:3.79/4.0)
 
 
 
