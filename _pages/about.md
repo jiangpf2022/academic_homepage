@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<h2 style="color:red"> NOTE: THE WEBSITE IS UNDER CONSTRUCTION, ALL OF THE INFORMATIONS HERE MAY NOT BE TOTALLY CORRECT RIGHT NOW.</h2>
+<!-- <h2 style="color:red"> NOTE: THE WEBSITE IS UNDER CONSTRUCTION, ALL OF THE INFORMATIONS HERE MAY NOT BE TOTALLY CORRECT RIGHT NOW.</h2> -->
 
 I am currently pursuing a Bacholer's degree in Computer Science at [ShanghaiTech University](https://www.shanghaitech.edu.cn), with a minor in Mathematics and Applied Mathematics. Since the fall of 2024, I have also been a concurrent international student at [UC Berkeley](https://www.berkeley.edu/), which has offered me a broader academic perspective and numerous opportunities for cross-disciplinary collaboration.  
 
@@ -25,7 +25,10 @@ I joined the Mobile Perception Lab at ShanghaiTech University since the spring o
 My research interests span computer vision, SLAM (Simultaneous Localization and Mapping), machine learning and deep learning. 
 
 
-
+<div style="border: 2px solid #ff6347; padding: 12px; margin-top: 20px; background-color: #fff5f5;">
+  <strong style="color: #c00;">⚠️ I am currently looking for Summer Research Internship opportunities in 2025 and Master's/Ph.D. positions for Fall 2026.</strong><br>
+  If you have or know of any suitable and well-matched projects, please feel free to reach out to me via email!
+</div>
 
 
 # 🔥 News
