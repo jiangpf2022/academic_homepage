@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Panfeng - Academic Homepage"
+title                    : "Panfeng Jiang - Academic Homepage"
 description              : "Matriculated undergraduate in ShanghaiTech University, concurrent international in UC Berkeley. Focusing on Computer Vision,Event-based Vision, SLAM, Machine Learning, Deep Learning."
 repository               : "jiangpf2022/academic-page"
 google_scholar_stats_use_cdn : false
