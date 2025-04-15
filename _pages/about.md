@@ -93,6 +93,9 @@ Traditional hedging strategies often fall short in equity derivatives markets du
     <a href="https://github.com/jiangpf2022/CS182-Project" target="_blank" style="margin-left: 10px;">[Code]</a>
   </span>
 </h2>
+<p style="color: #f57c00; font-weight: bold; margin-top: -10px;">
+  This work won the 1st place certificate in Bay Area Data Science Summit 2025 (BADSS2025)
+</p>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
