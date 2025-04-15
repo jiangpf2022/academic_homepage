@@ -145,7 +145,6 @@ obtain the 6D pose of the object.
 ## 🎏 Competitions
 - *Mar 2025*, Bay Area Data Science Summit, First Place.
 - *Sep 2024*, China Undergraduate Mathematical Contest in Modeling (CUMCM), Provincial Third Prize.
-- *Jan 2024*, Mathematical Contest in Modeling & Interdisciplinary Contest in Modeling, S Prize.
 
 # 💼 Societies
 

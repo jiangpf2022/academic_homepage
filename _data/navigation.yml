@@ -18,11 +18,12 @@ main:
   - title: "Societies"
     url: "https://jiangpf2022.github.io/academic_homepage/#-societies"
 
+  - title: "CV Resume"
+    url: "https://jiangpf2022.github.io/files/cv.pdf"
+  
   - title: "Availability"
     url: "https://cal.com/gavin-jiang-n907mx"
 
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
 
   # - title: "Internships"
   #   url: "/#-internships"
