@@ -84,6 +84,37 @@ Traditional hedging strategies often fall short in equity derivatives markets du
 </div>
 </div>
 
+
+<h2 style="display: flex; align-items: center; justify-content: space-between;">
+  <span>Hybrid ML for Quality Prediction: Huber Loss Optimization and PCA-Driven Insights</span>
+  <span style="font-size: 0.8em;">
+    <a href="https://jiangpf2022.github.io/files/cs182_ppt.pdf" target="_blank" style="margin-left: 10px;">[PPT]</a>
+    <a href="https://jiangpf2022.github.io/files/cs182_report.pdf" target="_blank" style="margin-left: 10px;">[Paper]</a>
+    <a href="https://github.com/jiangpf2022/CS182-Project" target="_blank" style="margin-left: 10px;">[Code]</a>
+  </span>
+</h2>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">Feb 2024 – Jun 2024</div>
+    <img src='images/projects/wine.png' alt="wine" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+Wine quality prediction involves complex interactions between physicochemical properties and sensory outcomes. This project introduces a hybrid machine learning pipeline combining PCA for dimensionality reduction and Huber Loss to enhance robustness against outliers. The study compares logistic regression, random forest, and XGBoost models across various settings, achieving improved predictive accuracy through refined feature extraction and loss function selection. Our approach demonstrates that tailored dimensionality reduction and robust error modeling can significantly enhance the reliability of quality assessments in noisy real-world datasets.
+
+</div><div markdown="1">
+
+**Finished Works**:  
+1. Conducted a thorough benchmarking of multiple models (Logistic Regression, Random Forest, XGBoost) for quality prediction on a real-world dataset from the wine industry.  
+2. Employed Principal Component Analysis (PCA) to reduce feature dimensionality, improve interpretability, and eliminate noisy correlations.  
+3. Incorporated Huber Loss into neural network and XGBoost models, significantly mitigating the influence of outliers and enhancing generalization on test data.  
+4. Designed a comprehensive ablation study evaluating the impact of model choice, loss function, and feature preprocessing, identifying optimal configurations for predictive performance.  
+5. Visualized and analyzed model behavior and prediction error metrics using MSE and Kaggle submissions, confirming improved robustness and lower error rates through hybrid techniques.
+
+</div>
+</div>
+
 # 📝 Publications 
 
 ## 📃 Papers
