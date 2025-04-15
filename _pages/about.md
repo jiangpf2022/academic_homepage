@@ -94,8 +94,10 @@ Traditional hedging strategies often fall short in equity derivatives markets du
   </span>
 </h2>
 <p style="color: #f57c00; font-weight: bold; margin-top: -10px;">
-  This work won the 1st place certificate in Bay Area Data Science Summit 2025 (BADSS2025)
+  This work won the 1st place certificate in Bay Area Data Science Summit 2025 
+  (<a href="https://badss.berkeley.edu/" target="_blank" style="color: #f57c00; text-decoration: underline; font-weight: bold;">BADSS2025</a>)
 </p>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
