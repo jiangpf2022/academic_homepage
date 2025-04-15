@@ -97,7 +97,7 @@ Traditional hedging strategies often fall short in equity derivatives markets du
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badge">Feb 2024 – Jun 2024</div>
-    <img src='images/projects/wine.png' alt="wine" width="100%">
+    <img src='images/projects/cs182.png' alt="wine" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
 
