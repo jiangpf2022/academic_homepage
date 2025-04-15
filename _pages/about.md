@@ -49,7 +49,15 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 
 <!-- Project -->
 
-## Multi-Layer Perceptron for Optimal Equity Derivative Hedging
+<!-- ## Multi-Layer Perceptron for Optimal Equity Derivative Hedging -->
+<h2 style="display: flex; align-items: center; justify-content: space-between;">
+  <span>Multi-Layer Perceptron for Optimal Equity Derivative Hedging</span>
+  <span style="font-size: 0.8em;">
+    <a href="https://jiangpf2022.github.io/files/badss_ppt.pdf" target="_blank" style="margin-left: 10px;">[PPT]</a>
+    <a href="https://jiangpf2022.github.io/files/badss_report.pdf" target="_blank" style="margin-left: 10px;">[Paper]</a>
+    <a href="https://github.com/jiangpf2022/MLP-for-Optimal-Equity-Derivative-Hedging/tree/main" target="_blank" style="margin-left: 10px;">[Code]</a>
+  </span>
+</h2>
 
 <div class='paper-box'>
 <div class='paper-box-image'>
