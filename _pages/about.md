@@ -26,7 +26,7 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 
 
 <div style="border: 2px solid #ff6347; padding: 12px; margin-top: 20px; background-color: #fff5f5;">
-  <strong style="color: #c00;">⚠️ I am currently looking for Summer Research Internship opportunities in 2025 and Master's/Ph.D. positions for Fall 2026.</strong><br>
+  <strong style="color: #c00;">⚠️ I am currently looking for Research Internship opportunities in Fall 2025 and Master's/Ph.D. positions for Fall 2026.</strong><br>
   If you have or know of any suitable and well-matched projects, please feel free to reach out to me via email!
 </div>
 
