@@ -52,11 +52,10 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 
 <h2 style="display: flex; align-items: center; justify-content: space-between;">
   <span>Rebalancing Nature’s Scale: A Model to Tame Overtourism</span>
-  <span style="font-size: 0.8em;">
-    <a href="https://jiangpf2022.github.io/files/badss_ppt.pdf" target="_blank" style="margin-left: 10px;">[PPT]</a>
+  <!-- <span style="font-size: 0.8em;">
     <a href="https://jiangpf2022.github.io/files/badss_report.pdf" target="_blank" style="margin-left: 10px;">[Paper]</a>
     <a href="https://github.com/jiangpf2022/MLP-for-Optimal-Equity-Derivative-Hedging/tree/main" target="_blank" style="margin-left: 10px;">[Code]</a>
-  </span>
+  </span> -->
 </h2>
 <p style="color: #f57c00; font-weight: bold; margin-top: -10px;">
   This work won the Outstanding Winner Award and AMS Award in Mathematical Contest in Modeling 2025(MCM). 
