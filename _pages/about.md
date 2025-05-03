@@ -51,7 +51,7 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 <!-- Project -->
 
 <h2 style="display: flex; align-items: center; justify-content: space-between;">
-  <span>Multi-Layer Perceptron for Optimal Equity Derivative Hedging</span>
+  <span>Rebalancing Nature’s Scale: A Model to Tame Overtourism</span>
   <span style="font-size: 0.8em;">
     <a href="https://jiangpf2022.github.io/files/badss_ppt.pdf" target="_blank" style="margin-left: 10px;">[PPT]</a>
     <a href="https://jiangpf2022.github.io/files/badss_report.pdf" target="_blank" style="margin-left: 10px;">[Paper]</a>
@@ -59,7 +59,7 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
   </span>
 </h2>
 <p style="color: #f57c00; font-weight: bold; margin-top: -10px;">
-  This work won the 1st place certificate in Bay Area Data Science Summit 2025 
+  This work won the Outstanding Winner Award and AMS Award in Mathematical Contest in Modeling 2025(MCM). 
   (<a href="https://badss.berkeley.edu/" target="_blank" style="color: #f57c00; text-decoration: underline; font-weight: bold;">BADSS2025</a>)
 </p>
 <div class='paper-box'>
@@ -69,7 +69,7 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 </div>
 <div class='paper-box-text' markdown="1">
 
-Traditional hedging strategies often fall short in equity derivatives markets due to their high-dimensional dynamics and stochastic volatility. To address this, we propose a data-driven framework for option hedging that integrates temporal market modeling with nonlinear predictive architectures. Our system comprises: (1) a robust preprocessing module that aligns time series, imputes data under causality constraints, and computes PnL and exposure trajectories; (2) a principled labeling mechanism that transforms exposure-adjusted returns into smooth, rank-preserving targets; and (3) a multi-layer perceptron trained via stratified cross-validation to learn risk-sensitive decision policies. Built atop this foundation is a modular trading engine that dynamically rebalances the portfolio through label-prioritized selection and adaptive sell-order management, effectively aligning exposure with market opportunities in real time.
+Traditional tourism controls often overlook the dynamic feedback loops between environmental health, visitor pressure, and economic flows, so we introduce a Sustainable Tourism Dynamics Model (STDM) that couples ordinary differential equations to capture the coevolution of glacier equilibrium‑line altitude, tourist volume, and hotel tax revenue. Our approach begins with a fault‑tolerant data pipeline that aligns time series, imputes missing values in a causality‑preserving manner, and excludes marine‑heatwave anomalies to ensure data integrity; we then decompose the system into environmental, population, and economic submodels and estimate their parameters using principled techniques. To intervene, we define finite sets of tax‑revenue allocation vectors  and policy impact vectors , simulate their coupled effects, and employ an Analytic Hierarchy Process‑based evaluation mechanism to rank and select the most effective strategy combinations under realistic constraints. Finally, we conduct both Morris global sensitivity analysis and local perturbation studies to identify key drivers and nonlinear interactions, and we demonstrate the model’s generalizability by applying it to Pfeiffer Big Sur—where optimized interventions raise the performance score from 0.328 to 0.736—thereby providing actionable insights for sustainable tourism management.
 
 </div><div markdown="1">
 
