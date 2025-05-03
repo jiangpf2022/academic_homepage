@@ -68,21 +68,23 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 <img src='images/projects/badss.png' alt="sym" width="100%">
 </div>
 <div class='paper-box-text' markdown="1">
-    Traditional tourism controls often overlook the dynamic feedback loops between environmental health, visitor pressure, and economic flows, so we introduce a Sustainable Tourism Dynamics Model (STDM) that couples ordinary differential equations to capture the coevolution of glacier equilibrium‑line altitude, tourist volume, and hotel tax revenue. Our approach begins with a fault‑tolerant data pipeline that aligns time series, imputes missing values in a causality‑preserving manner, and excludes marine‑heatwave anomalies to ensure data integrity; we then decompose the system into environmental, population, and economic submodels and estimate their parameters using principled techniques. 
-    <!-- To intervene, we define finite sets of tax‑revenue allocation vectors  and policy impact vectors , simulate their coupled effects, and employ an Analytic Hierarchy Process‑based evaluation mechanism to rank and select the most effective strategy combinations under realistic constraints. Finally, we conduct both Morris global sensitivity analysis and local perturbation studies to identify key drivers and nonlinear interactions, and we demonstrate the model’s generalizability by applying it to Pfeiffer Big Sur—where optimized interventions raise the performance score from 0.328 to 0.736—thereby providing actionable insights for sustainable tourism management. -->
+
+Traditional hedging strategies often fall short in equity derivatives markets due to their high-dimensional dynamics and stochastic volatility. To address this, we propose a data-driven framework for option hedging that integrates temporal market modeling with nonlinear predictive architectures. Our system comprises: (1) a robust preprocessing module that aligns time series, imputes data under causality constraints, and computes PnL and exposure trajectories; (2) a principled labeling mechanism that transforms exposure-adjusted returns into smooth, rank-preserving targets; and (3) a multi-layer perceptron trained via stratified cross-validation to learn risk-sensitive decision policies. Built atop this foundation is a modular trading engine that dynamically rebalances the portfolio through label-prioritized selection and adaptive sell-order management, effectively aligning exposure with market opportunities in real time.
+
 </div><div markdown="1">
 
-  **Finished Works**:  
-   1.Engineered a fault‑tolerant data pipeline for environmental time series, integrating causal gap‑filling, anomaly exclusion, and multi‑source alignment to support reliable model inputs.  
+**Finished Works**:  
+1.Engineered a fault-tolerant data pipeline for financial time series, incorporating custom temporal imputation and non-trading day exclusion logic, ensuring robust option lifecycle reconstruction.
 
-   2.Derived and calibrated coupled ODE submodels for glacier equilibrium‑line altitude, visitor dynamics, and hotel tax revenue, estimating parameters via historical data fitting and optimization methods.    
+2.Proposed and implemented a theoretically grounded labeling function that maps PnL-exposure ratios into continuous preference scores, preserving directional semantics under both positive and negative regimes.
 
-  3.Designed finite μ and v control vectors representing alternative tax‑allocation schemes and regulatory policy impacts, and embedded them into the simulation engine for scenario analysis.  
+3.Trained a deep MLP architecture with hyperparameter tuning and 5-fold cross-validation, achieving stable generalization across diverse market conditions and minimizing out-of-sample prediction error.
 
-  4.Developed an AHP‑based decision engine to translate expert judgments on environmental, social, and economic criteria into quantitative weights, multi‑criteria scores, and dynamic strategy rankings.    
+4.Developed a two-stage decision-making algorithm that orchestrates exposure tracking through priority-based liquidation and reallocation, enabling adaptive trade execution under soft budget constraints.
 
-  5.Integrated the full STDM framework into a simulation platform with global and local sensitivity analyses and applied it to Pfeiffer Big Sur, boosting the sustainability score from 0.328 to 0.736.  
-  </div>
+5.Integrated the full pipeline into a real-time simulation framework, supporting continuous decision rollouts, exposure drift correction, and trade performance monitoring at daily resolution.
+
+</div>
 </div>
 
 <h2 style="display: flex; align-items: center; justify-content: space-between;">
