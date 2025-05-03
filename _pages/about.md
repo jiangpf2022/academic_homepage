@@ -32,6 +32,7 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Our team won the Outstanding Winner Award and AMS Award at the Mathematical Contest In Modeling 2025.
 - *2025.03*: &nbsp;🎉🎉 Our team won the first place at the Bay Area Data Science Summit 2025 with a Multi-Layer Perceptron and greedy strategy for equity derivative hedging, achieving strong performance in cost reduction and risk control.
 
 
@@ -49,7 +50,39 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 
 <!-- Project -->
 
-<!-- ## Multi-Layer Perceptron for Optimal Equity Derivative Hedging -->
+<h2 style="display: flex; align-items: center; justify-content: space-between;">
+  <span>Rebalancing Nature’s Scale: A Model to Tame Overtourism</span>
+  <span style="font-size: 0.8em;">
+    <a href="https://jiangpf2022.github.io/files/mcm_report.pdf" target="_blank" style="margin-left: 10px;">[Paper(not released yet)]</a>
+    <a href="https://github.com/jiangpf2022/overtourism-model" target="_blank" style="margin-left: 10px;">[Code(not released yet)]</a>
+  </span>
+</h2>
+<p style="color: #f57c00; font-weight: bold; margin-top: -10px;">
+  This work won the Outstanding Winner Award and AMS Award in the Mathematical Contest in Modeling 2025(MCM/ICM).  
+  (<a href="http://www.comap-mcm.com/" target="_blank" style="color: #f57c00; text-decoration: underline; font-weight: bold;">MCM/ICM 2025</a>)
+</p>
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge">Jan 2025 – Feb 2025</div>
+    <img src="images/projects/mcm_overtourism.png" alt="Overtourism Model" width="100%"/>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    Traditional tourism controls often overlook the dynamic feedback loops between environmental health, visitor pressure, and economic flows, so we introduce a Sustainable Tourism Dynamics Model (STDM) that couples ordinary differential equations to capture the coevolution of glacier equilibrium‑line altitude, tourist volume, and hotel tax revenue. Our approach begins with a fault‑tolerant data pipeline that aligns time series, imputes missing values in a causality‑preserving manner, and excludes marine‑heatwave anomalies to ensure data integrity; we then decompose the system into environmental, population, and economic submodels and estimate their parameters using principled techniques. To intervene, we define finite sets of tax‑revenue allocation vectors (μ) and policy impact vectors (v), simulate their coupled effects, and employ an Analytic Hierarchy Process‑based evaluation mechanism to rank and select the most effective strategy combinations under realistic constraints. Finally, we conduct both Morris global sensitivity analysis and local perturbation studies to identify key drivers and nonlinear interactions, and we demonstrate the model’s generalizability by applying it to Pfeiffer Big Sur—where optimized interventions raise the performance score from 0.328 to 0.736—thereby providing actionable insights for sustainable tourism management.
+</div><div markdown="1">
+
+  **Finished Works**:  
+   1.Engineered a fault‑tolerant data pipeline for environmental time series, integrating causal gap‑filling, anomaly exclusion, and multi‑source alignment to support reliable model inputs.  
+
+   2.Derived and calibrated coupled ODE submodels for glacier equilibrium‑line altitude, visitor dynamics, and hotel tax revenue, estimating parameters via historical data fitting and optimization methods.    
+
+  3.Designed finite μ and v control vectors representing alternative tax‑allocation schemes and regulatory policy impacts, and embedded them into the simulation engine for scenario analysis.  
+
+  4.Developed an AHP‑based decision engine to translate expert judgments on environmental, social, and economic criteria into quantitative weights, multi‑criteria scores, and dynamic strategy rankings.    
+
+  5.Integrated the full STDM framework into a simulation platform with global and local sensitivity analyses and applied it to Pfeiffer Big Sur, boosting the sustainability score from 0.328 to 0.736.  
+  </div>
+</div>
+
 <h2 style="display: flex; align-items: center; justify-content: space-between;">
   <span>Multi-Layer Perceptron for Optimal Equity Derivative Hedging</span>
   <span style="font-size: 0.8em;">
