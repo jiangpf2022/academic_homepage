@@ -68,20 +68,18 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 </div>
 <div class='paper-box-text' markdown="1">
 
-Traditional tourism controls often overlook the dynamic feedback loops between environmental health, visitor pressure, and economic flows, so we introduce a Sustainable Tourism Dynamics Model (STDM) that couples ordinary differential equations to capture the coevolution of glacier equilibrium‑line altitude, tourist volume, and hotel tax revenue. Our approach begins with a fault‑tolerant data pipeline that aligns time series, imputes missing values in a causality‑preserving manner, and excludes marine‑heatwave anomalies to ensure data integrity; we then decompose the system into environmental, population, and economic submodels and estimate their parameters using principled techniques. To intervene, we define finite sets of tax‑revenue allocation vectors  and policy impact vectors , simulate their coupled effects, and employ an Analytic Hierarchy Process‑based evaluation mechanism to rank and select the most effective strategy combinations under realistic constraints. We demonstrate the model’s generalizability by applying it to  Big Sur—where optimized interventions raise the performance score from 0.328 to 0.736—thereby providing actionable insights for sustainable tourism management.
+Overtourism has become a global challenge, disrupting economic growth, environmental protection, and residents’ quality of life. Rising tourist numbers have caused environmental damage, strained infrastructure, and social tensions. Meanwhile, strict tourism limits can reduce local income and well-being. This dual challenge highlights the need for sustainable tourism strategies and data-driven models to optimize resources and maximize overall benefits. We developed the Sustainable Tourism Dynamics Model (STDM) using differential equations to simulate interactions among tourism-driven population growth (tourist numbers), environmental pressure (glacier equilibrium line altitude), and economic factors (hotel tax revenue), with government interventions (tax policies) as controllable inputs, then employed AHP to evaluate sustainability across social, environmental, and economic dimensions, dynamically optimizing strategies through sensitivity-validated feedback (identifying key parameters like tourist growth rate r₁), and successfully demonstrated model adaptability in Big Sur by improving sustainability scores from 0.33 to 0.74 through targeted infrastructure and visitor management policies, ultimately generating actionable recommendations for Juneau's tourism governance.
 
 </div><div markdown="1">
 
 **Finished Works**:  
-1.Engineered a fault‑tolerant data pipeline for environmental time series, integrating causal gap‑filling, anomaly exclusion, and multi‑source alignment to support reliable model inputs.  
+1.Derived and calibrated coupled ODE submodels for glacier equilibrium‑line altitude, visitor dynamics, and hotel tax revenue, estimating parameters via historical data fitting and optimization methods.    
 
-2.Derived and calibrated coupled ODE submodels for glacier equilibrium‑line altitude, visitor dynamics, and hotel tax revenue, estimating parameters via historical data fitting and optimization methods.    
+2.Designed finite μ and v control vectors representing alternative tax‑allocation schemes and regulatory policy impacts, and embedded them into the simulation engine for scenario analysis.  
 
-3.Designed finite μ and v control vectors representing alternative tax‑allocation schemes and regulatory policy impacts, and embedded them into the simulation engine for scenario analysis.  
+3.Developed an AHP‑based decision engine to translate expert judgments on environmental, social, and economic criteria into quantitative weights, multi‑criteria scores, and dynamic strategy rankings.    
 
-4.Developed an AHP‑based decision engine to translate expert judgments on environmental, social, and economic criteria into quantitative weights, multi‑criteria scores, and dynamic strategy rankings.    
-
-5.Integrated the full STDM framework into a simulation platform with global and local sensitivity analyses and applied it to Pfeiffer Big Sur, boosting the sustainability score from 0.328 to 0.736.
+4.Integrated the full STDM framework into a simulation platform with global and local sensitivity analyses and applied it to Pfeiffer Big Sur, boosting the sustainability score from 0.328 to 0.736.
 
 </div>
 </div>
