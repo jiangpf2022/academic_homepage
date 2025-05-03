@@ -60,12 +60,12 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 </h2>
 <p style="color: #f57c00; font-weight: bold; margin-top: -10px;">
   This work won the Outstanding Winner Award and AMS Award in Mathematical Contest in Modeling 2025(MCM). 
-  (<a href="https://badss.berkeley.edu/" target="_blank" style="color: #f57c00; text-decoration: underline; font-weight: bold;">BADSS2025</a>)
+  (<a href="https://www.comap.com/contests/mcm-icm" target="_blank" style="color: #f57c00; text-decoration: underline; font-weight: bold;">BADSS2025</a>)
 </p>
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div class="badge">Feb 2025 - Mar 2025</div>
-<img src='images/projects/badss.png' alt="sym" width="100%">
+<img src='images/projects/mcm_overtourism.png' alt="sym" width="100%">
 </div>
 <div class='paper-box-text' markdown="1">
 
