@@ -50,7 +50,7 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 
 <!-- Project -->
 
-<h2 style="display: flex; align-items: center; justify-content: space-between;">
+<h2 id="MCM2025" style="display: flex; align-items: center; justify-content: space-between;">
   <span>Rebalancing Nature’s Scale: A Model to Tame Overtourism</span>
   <!-- <span style="font-size: 0.8em;">
     <a href="https://jiangpf2022.github.io/files/badss_report.pdf" target="_blank" style="margin-left: 10px;">[Paper]</a>
