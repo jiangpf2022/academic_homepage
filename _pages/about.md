@@ -59,7 +59,7 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 </h2>
 <p style="color: #f57c00; font-weight: bold; margin-top: -10px;">
   This work won the Outstanding Winner Award and AMS Award in Mathematical Contest in Modeling 2025(MCM). 
-  (<a href="https://www.comap.com/contests/mcm-icm" target="_blank" style="color: #f57c00; text-decoration: underline; font-weight: bold;">BADSS2025</a>)
+  (<a href="https://www.comap.com/contests/mcm-icm" target="_blank" style="color: #f57c00; text-decoration: underline; font-weight: bold;">MCM2025</a>)
 </p>
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -84,7 +84,7 @@ Overtourism has become a global challenge, disrupting economic growth, environme
 </div>
 </div>
 
-<h2 style="display: flex; align-items: center; justify-content: space-between;">
+<h2 id="BADSS2025" style="display: flex; align-items: center; justify-content: space-between;">
   <span>Multi-Layer Perceptron for Optimal Equity Derivative Hedging</span>
   <span style="font-size: 0.8em;">
     <a href="https://jiangpf2022.github.io/files/badss_ppt.pdf" target="_blank" style="margin-left: 10px;">[PPT]</a>
