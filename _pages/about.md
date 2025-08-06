@@ -36,12 +36,40 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 
 
 # 📖 Educations
-- *Aug 2024 - Jun 2025*, [University of California, Berkeley](https://www.berkeley.edu/)  
+
+<!-- - *Aug 2024 - Jun 2025*, [University of California, Berkeley](https://www.berkeley.edu/)  
   Concurrent International in GLOBE Program, Major: Computer Science (GPA:3.81/4.0).
 
 - *Sep 2022 - Present*, [ShanghaiTech University](https://www.shanghaitech.edu.cn)  
-  B.Eng. in Computer Science, Minor in Mathematics & Applied Math(GPA:3.81/4.0)
+  B.Eng. in Computer Science, Minor in Mathematics & Applied Math(GPA:3.81/4.0) -->
 
+- *Aug 2024 – Jun 2025*, [University of California, Berkeley](https://www.berkeley.edu/)  
+<img
+  src="/images/ucberkeley.png"
+  alt="UC Berkeley Logo"
+  style="float: right;
+          height: 7em;
+          margin-left: 1em;
+          margin-bottom: 1em;"
+/><br><br>
+
+  Concurrent International in GLOBE Program,  
+  Major: Computer Science (GPA: 3.81/4.0).  
+  <div style="clear: both;"></div>
+
+- *Sep 2022 – Present*, [ShanghaiTech University](https://www.shanghaitech.edu.cn)  
+<img
+  src="/images/shanghaitech.png"
+  alt="ShanghaiTech Logo"
+  style="float: right;
+          height: 7em;
+          margin-left: 1em;
+          margin-bottom: 1em;"
+/><br><br>
+
+  B.Eng. in Computer Science,  
+  Minor in Mathematics & Applied Math (GPA: 3.81/4.0).  
+  <div style="clear: both;"></div>
 
 # 📝 Publications 
 
