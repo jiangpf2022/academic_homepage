@@ -1,160 +1,119 @@
-// Minimal Mistakes Jekyll Theme with Dark Mode Support
-// ---------------------------------------------------
-// 1. 定义全局 CSS 变量（浅色主题默认值）
-// ---------------------------------------------------
-:root {
-    --bg-color:       #ffffff;
-    --text-color:     #333333;
-    --link-color:     #0056b3;
-    --code-bg-color:  #03228d;
-    --code-text-color:#ffffff;
-    --paper-border:   #efefef;
-    --badge-bg-color: #00369f;
-  }
-  
-  // ---------------------------------------------------
-  // 2. 系统偏好为「深色模式」时，覆盖变量
-  // ---------------------------------------------------
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg-color:       #1e1e1e;
-      --text-color:     #dddddd;
-      --link-color:     #66aaff;
-      --code-bg-color:  #0a0f1e;
-      --code-text-color:#a8baff;
-      --paper-border:   #333333;
-      --badge-bg-color: #1167b1;
-    }
-  }
-  
-  // ---------------------------------------------------
-  // 3. 手动切换深色模式的开关类（结合 JS）
-  // ---------------------------------------------------
-  .dark-mode {
-    --bg-color:       #1e1e1e;
-    --text-color:     #dddddd;
-    --link-color:     #66aaff;
-    --code-bg-color:  #0a0f1e;
-    --code-text-color:#a8baff;
-    --paper-border:   #333333;
-    --badge-bg-color: #1167b1;
-  }
-  
-  // ---------------------------------------------------
-  // 4. 应用变量到全局元素
-  // ---------------------------------------------------
-  body {
-    background-color: var(--bg-color);
-    color:            var(--text-color);
-  }
-  
-  a {
-    color: var(--link-color);
-  }
-  
-  // ---------------------------------------------------
-  // 原主题导入
-  // ---------------------------------------------------
-  @import "vendor/breakpoint/breakpoint"; // media query mixins
-  @import "variables";
-  @import "mixins";
-  @import "vendor/susy/susy";
-  
-  @import "reset";
-  @import "base";
-  
-  @import "utilities";
-  @import "animations";
-  @import "tables";
-  @import "buttons";
-  @import "notices";
-  @import "masthead";
-  @import "navigation";
-  @import "footer";
-  @import "syntax";
-  
-  @import "forms";
-  
-  @import "page";
-  @import "archive";
-  @import "sidebar";
-  
-  @import "vendor/font-awesome/fontawesome";
-  @import "vendor/font-awesome/solid";
-  @import "vendor/font-awesome/brands";
-  @import "vendor/magnific-popup/magnific-popup";
-  @import "print";
-  
-  // ---------------------------------------------------
-  // 5. 组件样式，使用变量替换原有写死颜色
-  // ---------------------------------------------------
-  .paper-box {
+---
+---
+
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+.paper-box {
     display: flex;
     justify-content: left;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px solid var(--paper-border);
-    padding: 2em 0;
-  
-    .paper-box-image {
-      justify-content: center;
-      display: flex;
-      width: 100%;
-      img {
-        max-width: 400px;
-        box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);
-        object-fit: cover;
-      }
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+    
+
+    .paper-box-image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        //order: 1;
+        img {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
     }
-  
-    .paper-box-text {
-      max-width: 100%;
+    
+    .paper-box-text{
+        max-width: 100%;
+        //order: 1;
     }
-  
+    
     @include breakpoint($medium) {
-      .paper-box-image {
-        justify-content: left;
-        min-width: 200px;
-        max-width: 40%;
-      }
-      .paper-box-text {
-        justify-content: left;
-        padding-left: 2em;
-        max-width: 60%;
-      }
+        .paper-box-image{
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            //order: 1;
+        }
+        
+        .paper-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            //order: 2;
+        }
+
     }
-  }
-  
-  $scroll_offset: 2em;
-  h1:before,
-  .anchor:before {
-    content: '';
-    display: block;
-    position: relative;
-    width: 0;
-    height: $scroll_offset;
+
+
+}
+
+$scroll_offset : 2em;
+h1:before, .anchor:before { 
+    content: ''; 
+    display: block; 
+    position: relative; 
+    width: 0; 
+    height: $scroll_offset; 
     margin-top: -$scroll_offset;
-  }
-  
-  .badge {
+}
+
+.badge {
     padding-left: 1rem;
     padding-right: 1rem;
     position: absolute;
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: var(--badge-bg-color);
+    background-color: #00369f;
     font-size: .8em;
-  }
-  
-  .highlighter-rouge {
-    background-color: var(--code-bg-color);
-    color: var(--code-text-color);
-    margin-bottom: 0;
-    padding: 0;
-    font-size: 15px;
-    border: 0;
-    border-radius: 0;
-  }
-  
+}
+
+.highlighter-rouge {
+    background-color: #03228d;
+    color: white;
+    margin-bottom: 0em;
+    padding: 0em;
+    font-size: 15px; //.6875em;
+    border: 0px solid #f2f3f3;
+    border-radius: 0
+}

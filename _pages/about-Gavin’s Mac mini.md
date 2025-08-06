@@ -50,7 +50,7 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 # 🏆 Honors and Awards
 
 ## 🏅 Honors
-- *Jul 2025*, **International Exchange Program Scholarship**, ShanghaiTech University
+
 - *Dec 2023*, **Merit Student**, ShanghaiTech University
 
 ## 🎏 Competitions
