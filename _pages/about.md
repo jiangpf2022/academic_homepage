@@ -24,7 +24,6 @@ I joined the Mobile Perception Lab at ShanghaiTech University since the spring o
 
 My research interests span computer vision, SLAM (Simultaneous Localization and Mapping), machine learning and deep learning. 
 
-
 <div style="border: 2px solid #ff6347; padding: 12px; margin-top: 20px; background-color: #fff5f5;">
   <strong style="color: #c00;">⚠️ I am currently looking for Research Internship opportunities in Fall 2025 and Master's/Ph.D. positions for Fall 2026.</strong><br>
   If you have or know of any suitable and well-matched projects, please feel free to reach out to me via email!
@@ -32,18 +31,22 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Our team won the Outstanding Winner Award and AMS Award at the Mathematical Contest In Modeling 2025.
-- *2025.03*: &nbsp;🎉🎉 Our team won the first place at the Bay Area Data Science Summit 2025 with a Multi-Layer Perceptron and greedy strategy for equity derivative hedging, achieving strong performance in cost reduction and risk control.
+- *2025.06*: &nbsp;🎉🎉 Our paper “An Efficient Asynchronous Point-based Solver for Camera Egomotion Recovery” was accepted as a **Highlight Paper** at ICCV 2025.
+- *2025.05*: &nbsp;🎉🎉 Our team won the **Outstanding Winner Award and AMS Award** at the Mathematical Contest In Modeling 2025.
+- *2025.03*: &nbsp;🎉🎉 Our team won **the first place** at the Bay Area Data Science Summit 2025 with a Multi-Layer Perceptron and greedy strategy for equity derivative hedging, achieving strong performance in cost reduction and risk control.
 
 
 # 📖 Educations
 - *Aug 2024 - Jun 2025*, [University of California, Berkeley](https://www.berkeley.edu/)  
-  Concurrent International in GLOBE Program, Major: Computer Science (GPA:3.957/4.0).
+  Concurrent International in GLOBE Program, Major: Computer Science (GPA:3.81/4.0).
 
 - *Sep 2022 - Present*, [ShanghaiTech University](https://www.shanghaitech.edu.cn)  
-  B.Eng. in Computer Science, Minor in Mathematics & Applied Math(GPA:3.79/4.0)
+  B.Eng. in Computer Science, Minor in Mathematics & Applied Math(GPA:3.81/4.0)
 
 
+# 📝 Publications 
+
+<code class="language-plaintext highlighter-rouge">ICCV</code> Hang Su, Yunlong Feng, Daniel Gehrig, **Panfeng Jiang**, Ling Gao, Xavier Lagorce, Laurent Kneip . "[**A Linear N-Point Solver for Structure and Motion from Asynchronous Tracks**](https://arxiv.org/pdf/2507.22733)." ICCV2025 （**Accept Highlight**）
 
 # 🔍 Projects
 
@@ -154,9 +157,9 @@ Wine quality prediction involves complex dependencies among physicochemical feat
 </div>
 </div>
 
-# 📝 Publications 
 
-## 📃 Papers
+
+<!-- ## 📃 Papers -->
 
 <!-- Paper 2023.12 -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Advanced Manufacturing Technology</div><img src='images/publications/202409_Robotic_Grasping_Method_with_6D_Pose_Estimation_and_Point_Cloud_Fusion.png' alt="sym" width="100%"></div></div>
@@ -184,28 +187,9 @@ obtain the 6D pose of the object.
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
-<code class="language-plaintext highlighter-rouge">ICCV</code> Hang Su, Yunlong Feng, Daniel Gehrig, **Panfeng Jiang**, Ling Gao, Xavier Lagorce, Laurent Kneip . "[**An Efficient Asynchronous Point-based Solver for Camera Egomotion Recovery**](#)." *Submitted to the IEEE/CVF International Conference on Computer Vision (ICCV)*, 2025.
-
-<!-- - <code class="language-plaintext highlighter-rouge">IJAMT</code> **Haofei Ma**, Gongcheng Wang, Hua Bai, Zhiyu Xia, Weidong Wang, and Zhijiang Du. "[**Robotic Grasping Method with 6D Pose Estimation and Point Cloud Fusion**](https://doi.org/10.1007/s00170-024-14372-3)." *The International Journal of Advanced Manufacturing Technology* (2024): 1-11. doi: [10.1007/s00170-024-14372-3](https://doi.org/10.1007/s00170-024-14372-3) -->
-
-<!-- - <code class="language-plaintext highlighter-rouge">RAS</code> Gongcheng Wang, **Haofei Ma**, Han Wang, Pengchao Ding, Hua Bai, Wenda Xu, Weidong Wang, and Zhijiang Du. "[**Reactive mobile manipulation based on dynamic dual-trajectory tracking**](https://doi.org/10.1016/j.robot.2023.104589)." *Robotics and Autonomous Systems* 172 (2024): 104589. doi: [10.1016/j.robot.2023.104589](https://doi.org/10.1016/j.robot.2023.104589).
-
-- <code class="language-plaintext highlighter-rouge">IEEE Sensors Journal</code> Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijiang Du. "[**Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking**](https://doi.org/10.1109/JSEN.2024.3364701)." *IEEE Sensors Journal* (2024). doi: [10.1109/JSEN.2024.3364701](https://doi.org/10.1109/JSEN.2024.3364701)
-
-- <code class="language-plaintext highlighter-rouge">RAS</code> Hua Bai, Wenrui Gao, **Haofei Ma**, Pengchao Ding, Gongcheng Wang, Wenda Xu, Weidong Wang, Zhijiang Du. "[**A study of robotic search strategy for multi-radiation sources in unknown environments**](https://doi.org/10.1109/JSEN.2024.3364701)." *Robotics and Autonomous Systems* 169 (2023): 104529. doi: [10.1109/JSEN.2024.3364701](https://doi.org/10.1109/JSEN.2024.3364701). -->
 
 
-<!-- ## 📚 Patents
 
-- <code class="language-plaintext highlighter-rouge">Invention Patent</code> [**A Rock Core Box Handling Robot**](https://cprs.patentstar.com.cn/Search/Detail?ANE=9DIE1BAA2AAA8CDA8EDA9CIB9BIF9GBC9BED6BDA9HBH9IBE), Weidong Wang, Hengbin Liang, **Haofei Ma**, Gongcheng Wang (CN202310547284.5, Pending)
-
-- <code class="language-plaintext highlighter-rouge">Utility Model Patent</code> [**A Spherical Metamorphic Robot and An Environmental Information Monitoring System**](https://cprs.patentstar.com.cn/Search/Detail?ANE=AHIA8FDA8AGA9GGE9HAA6GAA9HDD9CIC9FCA9HDC9GDF9ICF), Yuhan Rao, Manhong Li, *Haofei Ma*, Yuchong Gao, Nuo Zhang, Xinyu Liu (CN202120212154.2)
-
-- <code class="language-plaintext highlighter-rouge">Utility Model Patent</code> [**A Rope Driven Cleaning Robot**](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA7BEA9DID9BIC9ICBBFIA8BDA9IBF9ICG8EEA9FDG), Bao Li, Manhong Li, Shuofan Li, **Haofei Ma**, Jidong Guo, Yuchong Gao, Yingxin Dong (CN202120545507.0)
-
-- <code class="language-plaintext highlighter-rouge">Utility Model Patent</code> [**Small Ocean Vehicles Using Wave Energy to Generate Electricity**](https://cprs.patentstar.com.cn/Search/Detail?ANE=9EEB9HFD3ABA3CBA9AIB9GIF8IAA9FADBCIA9BEA9ECDAGGA), Yihan Gao, **Haofei Ma**, Shaoan Chen, Haoran Sun, Chenxi Song (CN202020078465.X)
-
-- <code class="language-plaintext highlighter-rouge">Software Copyright</code> [**Identity Recognition and Infrared Temperature Measurement Control System**](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2021SR1391064&keyWord=%E9%A9%AC%E6%B5%A9%E9%A3%9E&publicityType=ALL&registerDateType=ALL), **Haofei Ma** (2021SR1391064) -->
 
 # 🏆 Honors and Awards
 
