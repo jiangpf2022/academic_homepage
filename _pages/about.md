@@ -64,10 +64,45 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 - *Jul 2023 - Mar 2025*, Staff & Referee in Rubik’s Cube competitions, including Bay Area Speedcubin’65 - Berkeley 2024, Berkeley Fall 2024, Berkeley October Weekday Tricubealon 2024, Cool Down Berkeley 2024, and
 Changsha Rubik’s Cube Open 2023..
 - *Aug 2023 - Aug 2024*, served as a volunteer in ShanghaiTech summer camp, Shanghai Planetarium,Shanghai Library as well as Shanghai Marathon 2023.
+
+
+
 # 🔍 Projects
 
 
 <!-- Project -->
+<h2 id="ICCV 2025" style="display: flex; align-items: center; justify-content: space-between;">
+  <span>Rebalancing Nature’s Scale: A Model to Tame Overtourism</span>
+  <!-- <span style="font-size: 0.8em;">
+    <a href="https://jiangpf2022.github.io/files/badss_report.pdf" target="_blank" style="margin-left: 10px;">[Paper]</a>
+    <a href="https://github.com/jiangpf2022/MLP-for-Optimal-Equity-Derivative-Hedging/tree/main" target="_blank" style="margin-left: 10px;">[Code]</a>
+  </span> -->
+</h2>
+<p style="color: #f57c00; font-weight: bold; margin-top: -10px;">
+  This work has been accepted as highlight paper at 
+  <a href="https://iccv.thecvf.com/" target="_blank" style="color: #f57c00; text-decoration: underline; font-weight: bold;">ICCV 2025</a>.
+</p>
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div class="badge">Nov 2024 - Mar 2025</div>
+<img src='images/projects/ICCV2025.png' alt="sym" width="100%">
+</div>
+<div class='paper-box-text' markdown="1">
+
+Structure and continuous motion estimation from point correspondences is a fundamental problem in computer vision that has been powered by well-known algorithms such as the familiar 5-point or 8-point algorithm. However, despite their acclaim, these algorithms are limited to processing point correspondences originating from a pair of views each one representing an instantaneous capture of the scene. Yet, in the case of rolling shutter cameras, or more recently, event cameras, this synchronization breaks down. In this work, we present a unified approach for structure and linear motion estimation from 2D point correspondences with arbitrary timestamps, from an arbitrary set of views. By formulating the problem in terms of first-order dynamics and leveraging a constant velocity motion model, we derive a novel, linear point incidence relation allowing for the efficient recovery of both linear velocity and 3D points with predictable degeneracies and solution multiplicities. Owing to its general formulation, it can handle correspondences from a wide range of sensing modalities such as global shutter, rolling shutter, and event cameras, and can even combine correspondences from different collocated sensors. We validate the effectiveness of our solver on both simulated and real-world data, where we show consistent improvement across all modalities when compared to recent approaches. We believe our work opens the door to efficient structure and motion estimation from asynchronous data.
+
+</div><div markdown="1">
+
+**Finished Works**:  
+1.xxx  
+
+2.xxx
+
+</div>
+</div>
+
+
+
 
 <h2 id="MCM2025" style="display: flex; align-items: center; justify-content: space-between;">
   <span>Rebalancing Nature’s Scale: A Model to Tame Overtourism</span>
