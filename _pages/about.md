@@ -44,8 +44,9 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
   B.Eng. in Computer Science, Minor in Mathematics & Applied Math(GPA:3.81/4.0) -->
 
 - *Aug 2024 – Jun 2025*, [University of California, Berkeley](https://www.berkeley.edu/)  
+
 <img
-  src="/images/logos/ucberkeley.png"
+  src="images/projects/ucberkeley.png"
   alt="UC Berkeley Logo"
   style="float: right;
           height: 7em;
@@ -59,7 +60,7 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 
 - *Sep 2022 – Present*, [ShanghaiTech University](https://www.shanghaitech.edu.cn)  
 <img
-  src="/images/logos/shanghaitech.png"
+  src="images/projects/shanghaitech.png"
   alt="ShanghaiTech Logo"
   style="float: right;
           height: 7em;
@@ -101,10 +102,10 @@ Changsha Rubik’s Cube Open 2023..
 <!-- Project -->
 <h2 id="ICCV 2025" style="display: flex; align-items: center; justify-content: space-between;">
   <span>A Linear N-Point Solver for Structure and Motion from Asynchronous Tracks </span>
-  <!-- <span style="font-size: 0.8em;">
-    <a href="https://jiangpf2022.github.io/files/badss_report.pdf" target="_blank" style="margin-left: 10px;">[Paper]</a>
-    <a href="https://github.com/jiangpf2022/MLP-for-Optimal-Equity-Derivative-Hedging/tree/main" target="_blank" style="margin-left: 10px;">[Code]</a>
-  </span> -->
+  <span style="font-size: 0.8em;">
+    <a href="https://arxiv.org/pdf/2507.22733" target="_blank" style="margin-left: 10px;">[Paper]</a>
+    <a href="https://github.com/suhang99/AsyncTrack-Motion-Solver" target="_blank" style="margin-left: 10px;">[Code]</a>
+  </span>
 </h2>
 <p style="color: #f57c00; font-weight: bold; margin-top: -10px;">
   This work has been accepted as highlight paper at 
@@ -169,7 +170,7 @@ Overtourism has become a global challenge, disrupting economic growth, environme
 <h2 id="BADSS2025" style="display: flex; align-items: center; justify-content: space-between;">
   <span>Multi-Layer Perceptron for Optimal Equity Derivative Hedging</span>
   <span style="font-size: 0.8em;">
-    <a href="https://jiangpf2022.github.io/files/badss_ppt.pdf" target="_blank" style="margin-left: 10px;">[PPT]</a>
+    <a href="https://jiangpf2022.github.io/files/badss_ppt.pdf" target="_blank" style="margin-left: 10px;">[Slides]</a>
     <a href="https://jiangpf2022.github.io/files/badss_report.pdf" target="_blank" style="margin-left: 10px;">[Paper]</a>
     <a href="https://github.com/jiangpf2022/MLP-for-Optimal-Equity-Derivative-Hedging/tree/main" target="_blank" style="margin-left: 10px;">[Code]</a>
   </span>
@@ -207,7 +208,7 @@ Traditional hedging strategies often fall short in equity derivatives markets du
 <h2 style="display: flex; align-items: center; justify-content: space-between;">
   <span>Hybrid ML for Quality Prediction: Huber Loss Optimization and PCA-Driven Insights</span>
   <span style="font-size: 0.8em;">
-    <a href="https://jiangpf2022.github.io/files/cs182_ppt.pdf" target="_blank" style="margin-left: 10px;">[PPT]</a>
+    <a href="https://jiangpf2022.github.io/files/cs182_ppt.pdf" target="_blank" style="margin-left: 10px;">[Slides]</a>
     <a href="https://jiangpf2022.github.io/files/cs182_report.pdf" target="_blank" style="margin-left: 10px;">[Paper]</a>
     <a href="https://github.com/jiangpf2022/CS182-Project" target="_blank" style="margin-left: 10px;">[Code]</a>
   </span>
