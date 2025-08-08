@@ -45,7 +45,7 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 
 - *Aug 2024 – Jun 2025*, [University of California, Berkeley](https://www.berkeley.edu/)  
 <img
-  src="/images/ucberkeley.png"
+  src="/images/logos/ucberkeley.png"
   alt="UC Berkeley Logo"
   style="float: right;
           height: 7em;
@@ -59,7 +59,7 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 
 - *Sep 2022 – Present*, [ShanghaiTech University](https://www.shanghaitech.edu.cn)  
 <img
-  src="/images/shanghaitech.png"
+  src="/images/logos/shanghaitech.png"
   alt="ShanghaiTech Logo"
   style="float: right;
           height: 7em;
@@ -100,7 +100,7 @@ Changsha Rubik’s Cube Open 2023..
 
 <!-- Project -->
 <h2 id="ICCV 2025" style="display: flex; align-items: center; justify-content: space-between;">
-  <span>Rebalancing Nature’s Scale: A Model to Tame Overtourism</span>
+  <span>A Linear N-Point Solver for Structure and Motion from Asynchronous Tracks </span>
   <!-- <span style="font-size: 0.8em;">
     <a href="https://jiangpf2022.github.io/files/badss_report.pdf" target="_blank" style="margin-left: 10px;">[Paper]</a>
     <a href="https://github.com/jiangpf2022/MLP-for-Optimal-Equity-Derivative-Hedging/tree/main" target="_blank" style="margin-left: 10px;">[Code]</a>
