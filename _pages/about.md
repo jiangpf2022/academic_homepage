@@ -44,12 +44,11 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
   B.Eng. in Computer Science, Minor in Mathematics & Applied Math(GPA:3.81/4.0) -->
 
 - *Aug 2024 – Jun 2025*, [University of California, Berkeley](https://www.berkeley.edu/)  
-
 <img
   src="images/projects/ucberkeley.png"
   alt="UC Berkeley Logo"
   style="float: right;
-          height: 7em;
+          height: 12em;
           margin-left: 1em;
           margin-bottom: 1em;"
 /><br><br>
@@ -63,7 +62,7 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
   src="images/projects/shanghaitech.png"
   alt="ShanghaiTech Logo"
   style="float: right;
-          height: 7em;
+          height: 12em;
           margin-left: 1em;
           margin-bottom: 1em;"
 /><br><br>
