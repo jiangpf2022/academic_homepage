@@ -126,7 +126,7 @@ Hi! I'm Panfeng Jiang.
   src="images/logos/mpl.jpeg"
   alt="MPL Logo"
   style="float: right;
-          height: 12em;
+          height: 8em;
           margin-left: 1em;
           margin-bottom: 1em;"
 /><br><br>
