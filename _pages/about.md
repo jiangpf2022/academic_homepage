@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <!-- <h2 style="color:red"> NOTE: THE WEBSITE IS UNDER CONSTRUCTION, ALL OF THE INFORMATIONS HERE MAY NOT BE TOTALLY CORRECT RIGHT NOW.</h2> -->
-I am currently pursuing a Bacholer's degree in Computer Science at [ShanghaiTech University](https://www.shanghaitech.edu.cn), with a minor in Mathematics and Applied Mathematics. Since the fall of 2024, I have also been a concurrent international student at [UC Berkeley](https://www.berkeley.edu/), which has offered me a broader academic perspective and numerous opportunities for cross-disciplinary collaboration.  
+<!-- I am currently pursuing a Bacholer's degree in Computer Science at [ShanghaiTech University](https://www.shanghaitech.edu.cn), with a minor in Mathematics and Applied Mathematics. Since the fall of 2024, I have also been a concurrent international student at [UC Berkeley](https://www.berkeley.edu/), which has offered me a broader academic perspective and numerous opportunities for cross-disciplinary collaboration.   -->
 
-I joined the Mobile Perception Lab at ShanghaiTech University since the spring of 2023, where I work under the guidance of Ph.D. student Hang Su and Prof. Laurent Kneip. My previous projects primarily focused on event-camera-based SLAM for real-time 3D environment understanding and robust motion tracking in dynamic scenarios.
+<!-- I joined the Mobile Perception Lab at ShanghaiTech University since the spring of 2023, where I work under the guidance of Ph.D. student Hang Su and Prof. Laurent Kneip. My previous projects primarily focused on event-camera-based SLAM for real-time 3D environment understanding and robust motion tracking in dynamic scenarios. -->
 
-My research interests span computer vision, SLAM (Simultaneous Localization and Mapping), machine learning and deep learning. 
+<!-- My research interests span computer vision, SLAM (Simultaneous Localization and Mapping), machine learning and deep learning.  -->
+Hi! I'm Panfeng Jiang.
 
 <div style="border: 2px solid #ff6347; padding: 12px; margin-top: 20px; background-color: #fff5f5;">
-  <strong style="color: #c00;">⚠️ I am currently looking for Research Internship opportunities in Fall 2025 and Master's/Ph.D. positions for Fall 2026.</strong><br>
+  <strong style="color: #c00;">⚠️ I am currently looking for Master's/Ph.D. positions for Fall 2026.</strong><br>
   If you have or know of any suitable and well-matched projects, please feel free to reach out to me via email!
 </div>
 
@@ -36,12 +37,6 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 
 
 # 📖 Educations
-
-<!-- - *Aug 2024 - Jun 2025*, [University of California, Berkeley](https://www.berkeley.edu/)  
-  Concurrent International in GLOBE Program, Major: Computer Science (GPA:3.81/4.0).
-
-- *Sep 2022 - Present*, [ShanghaiTech University](https://www.shanghaitech.edu.cn)  
-  B.Eng. in Computer Science, Minor in Mathematics & Applied Math(GPA:3.81/4.0) -->
 
 - *Aug 2024 – Jun 2025*, [University of California, Berkeley](https://www.berkeley.edu/)  
 <img
@@ -85,7 +80,63 @@ My research interests span computer vision, SLAM (Simultaneous Localization and 
 - *Mar 2025*, **Outstanding Winner Award**, Mathematical Contest In Modeling 2025 (MCM)
 - *Mar 2025*, **First Place Winner**, Bay Area Data Science Summit.
 - *Sep 2024*, **Provincial Third Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM).
+# 💻 Research Experience
 
+- *Jun 2025 – Sep 2025*, RoboScience Co., Ltd. & Lin Shao's Lab, University of National, Singapore 
+<img
+  src="images/projects/roboscience.png"
+  alt="Roboscience Logo"
+  style="float: right;
+         height: 12em;
+         margin-left: 1em;
+         margin-bottom: 1em;"
+/>
+
+<img
+  src="images/projects/nus.png"
+  alt="NUS Logo"
+  style="float: right;
+         height: 12em;
+         margin-left: 1em;
+         margin-bottom: 1em;"
+/>
+
+
+
+  xxx,
+  xxx 
+  <div style="clear: both;"></div>
+
+- *Apr 2025 – Present*, Weitong Zhang's Lab, University of North Carolina at Chapel Hill  
+<img
+  src="images/projects/unc.png"
+  alt="UNC Logo"
+  style="float: right;
+          height: 12em;
+          margin-left: 1em;
+          margin-bottom: 1em;"
+/><br><br>
+
+  xxx,
+  xxx  
+  <div style="clear: both;"></div>
+
+- *Apr 2023 – Mar 2025*, [Mobile Perception Lab, ShanghaiTech University](https://mpl.sist.shanghaitech.edu.cn/MPL@shanghaitech.html)  
+<img
+  src="images/projects/mpl.jpeg"
+  alt="MPL Logo"
+  style="float: right;
+          height: 12em;
+          margin-left: 1em;
+          margin-bottom: 1em;"
+/><br><br>
+
+  xxx,
+  xxx,
+  xxx,
+  xxx,
+  xxx  
+  <div style="clear: both;"></div>
 # 💼 Societies
 
 - *Jul 2023 - Aug 2023*, Teaching Assistant in New Oriental Education & Technology Group Inc.
