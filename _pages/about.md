@@ -84,7 +84,7 @@ Hi! I'm Panfeng Jiang.
 
 - *Jun 2025 – Sep 2025*, RoboScience Co., Ltd. & Lin Shao's Lab, University of National, Singapore 
 <img
-  src="images/projects/roboscience.png"
+  src="images/logos/roboscience.png"
   alt="Roboscience Logo"
   style="float: right;
          height: 12em;
@@ -93,7 +93,7 @@ Hi! I'm Panfeng Jiang.
 />
 
 <img
-  src="images/projects/nus.png"
+  src="images/logos/nus.png"
   alt="NUS Logo"
   style="float: right;
          height: 12em;
@@ -109,7 +109,7 @@ Hi! I'm Panfeng Jiang.
 
 - *Apr 2025 – Present*, Weitong Zhang's Lab, University of North Carolina at Chapel Hill  
 <img
-  src="images/projects/unc.png"
+  src="images/logos/unc.png"
   alt="UNC Logo"
   style="float: right;
           height: 12em;
@@ -123,7 +123,7 @@ Hi! I'm Panfeng Jiang.
 
 - *Apr 2023 – Mar 2025*, [Mobile Perception Lab, ShanghaiTech University](https://mpl.sist.shanghaitech.edu.cn/MPL@shanghaitech.html)  
 <img
-  src="images/projects/mpl.jpeg"
+  src="images/logos/mpl.jpeg"
   alt="MPL Logo"
   style="float: right;
           height: 12em;
