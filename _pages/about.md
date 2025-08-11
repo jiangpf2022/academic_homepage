@@ -84,7 +84,7 @@ Hi! I'm Panfeng Jiang.
 
 - *Jun 2025 – Sep 2025*, RoboScience Co., Ltd. & Lin Shao's Lab, University of National, Singapore 
 <img
-  src="images/logos/roboscience.png"
+  src="images/logos/roboscience.jpg"
   alt="Roboscience Logo"
   style="float: right;
          height: 12em;
@@ -93,7 +93,7 @@ Hi! I'm Panfeng Jiang.
 />
 
 <img
-  src="images/logos/nus.png"
+  src="images/logos/nus.jpeg"
   alt="NUS Logo"
   style="float: right;
          height: 12em;
