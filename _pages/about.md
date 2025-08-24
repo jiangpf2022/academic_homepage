@@ -82,7 +82,7 @@ Hi! I'm Panfeng Jiang.
 - *Sep 2024*, **Provincial Third Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM).
 # 💻 Research Experience
 
-- *Jun 2025 – Sep 2025*, RoboScience Co., Ltd. & Lin Shao's Lab, University of National, Singapore
+- *Jun 2025 – Sep 2025*, RoboScience Co., Ltd. & Lin Shao's Lab, National University of Singapore
 
 <img
   src="images/logos/roboscience.jpg"
