@@ -48,8 +48,8 @@ Hi! I'm Panfeng Jiang.
           margin-bottom: 1em;"
 /><br><br>
 
-  Concurrent International in GLOBE Program,  
-  Major: Computer Science (GPA: 3.81/4.0).  
+  **Undergraduate Exchange Program in Computer Science** (GPA: 3.81/4.0),  
+  2025 ShanghaiTech International Exchange Program Scholarship（～$14000）  
   <div style="clear: both;"></div>
 
 - *Sep 2022 – Present*, [ShanghaiTech University](https://www.shanghaitech.edu.cn)  
@@ -62,27 +62,25 @@ Hi! I'm Panfeng Jiang.
           margin-bottom: 1em;"
 /><br><br>
 
-  B.Eng. in Computer Science,  
-  Minor in Mathematics & Applied Math (GPA: 3.81/4.0).  
+  **Bachelor of Engineering in Computer Science,  
+  Minor in Mathematics & Applied Mathematics  (GPA: 3.81/4.0),**   
+  2023 ShanghaiTech Merit Student Award (Top 10%). 
   <div style="clear: both;"></div>
 
 # 📝 Publications 
+ <code class="language-plaintext highlighter-rouge">ALT 2026</code> **Panfeng  Jiang**, Max Van Fleet, Waiting Zhang, “**Improved Analysis For Variance-Aware Langevin Monte Carlo Thompson Sampling,**” September 2025, **Submitted**, The 37th International Conference on Algorithmic Learning Theory(ALT)
+  <code class="language-plaintext highlighter-rouge">ICRA 2026</code> **Panfeng Jiang** <sup>1</sup>,**Yunchuan Li** <sup>1</sup> , Junting Chen, Jiacheng Du, Zixuan Chen, Chenrui Tie, Jiajun Deng, Lin Shao,“**LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating,**” September 2025, **Under Review**, The 2026 IEEE International Conference on Robotics & Automation (ICRA)
+<code class="language-plaintext highlighter-rouge">ICCV 2025</code> Hang Su, Yunlong Feng, Daniel Gehrig, **Panfeng Jiang**, Ling Gao, Xavier Lagorce, Laurent Kneip . "[**A Linear N-Point Solver for Structure and Motion from Asynchronous Tracks**](https://arxiv.org/pdf/2507.22733)."   May 2025, **Accepted (Highlight Paper)**, the IEEE/CVF
+International Conference on Computer Vision (ICCV)
 
-<code class="language-plaintext highlighter-rouge">ICCV</code> Hang Su, Yunlong Feng, Daniel Gehrig, **Panfeng Jiang**, Ling Gao, Xavier Lagorce, Laurent Kneip . "[**A Linear N-Point Solver for Structure and Motion from Asynchronous Tracks**](https://arxiv.org/pdf/2507.22733)." ICCV2025 （**Accept Highlight**）
-# 🏆 Honors and Awards
-
-## 🏅 Honors
-- *Jul 2025*, **International Exchange Program Scholarship**, ShanghaiTech University
-- *Dec 2023*, **Merit Student**, ShanghaiTech University
-
-## 🎏 Competitions
-- *Mar 2025*, **AMS(American Mathematical Society) Award**, Mathematical Contest In Modeling 2025 (MCM)
-- *Mar 2025*, **Outstanding Winner Award**, Mathematical Contest In Modeling 2025 (MCM)
-- *Mar 2025*, **First Place Winner**, Bay Area Data Science Summit.
+# 🏅Awards
+- *Jun 2025*, **Outstanding Winner Award (Top 0.1%)**, Mathematical Contest in Modeling 2025 (MCM) 
+- *Jun 2025*, **American Mathematical Society Award**, Mathematical Contest in Modeling 2025 (Top 3 / 21,054)
+- *Mar 2025*, **First Place Winner**, Bay Area Data Science Summit 2025 @ UC Berkeley endorsed by Wells Fargo .
 - *Sep 2024*, **Provincial Third Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM).
 # 💻 Research Experience
 
-- *Jun 2025 – Sep 2025*, RoboScience Co., Ltd. & Lin Shao's Lab, National University of Singapore
+#### *Jun 2025 – Sep 2025*, **RoboScience Co., Ltd. & Lin Shao's Lab, National University of Singapore**
 
 <img
   src="images/logos/roboscience.jpg"
@@ -100,12 +98,13 @@ Hi! I'm Panfeng Jiang.
          margin-left: 1em;
          margin-bottom: 1em;"
 /><br><br>
-  
-  xxx,
-  xxx 
+*Advisor: Dr. Lin Shao*
+- Deployed and integrated the RoboPoint vision–language model into a ROS-based navigation framework, enabling robots to interpret social cues and language instructions in real time.
+- Extended the Social Force Model (SFM) with dynamic, VLM-conditioned parameters and costmaps, improving socially compliant behaviors such as yielding, following, and keeping context-aware distances.
+- Built and validated a VLM-driven social navigation pipeline in ROSNav-Arena 2.0, combining fast-slow control architecture with DWA/TEB planners to achieve real-time, collision-free navigation in complex human–robot interaction scenarios.
   <div style="clear: both;"></div>
 
-- *Apr 2025 – Present*, Weitong Zhang's Lab, University of North Carolina at Chapel Hill  
+#### *Apr 2025 – Present*, **Weitong Zhang's Lab, University of North Carolina at Chapel Hill**  
 <img
   src="images/logos/unc.png"
   alt="UNC Logo"
@@ -114,12 +113,13 @@ Hi! I'm Panfeng Jiang.
           margin-left: 1em;
           margin-bottom: 1em;"
 /><br><br>
-
-  xxx,
-  xxx  
+*Advisor: Dr.Weitong Zhang*
+ - Integrated the latest proof framework for linear bandits into the Langevin Monte Carlo Thompson Sampling (LMC-TS) environment; formalized the convergence behavior of LMC toward a Gaussian distribution under infinite steps and aligned it with cutting-edge regret analysis for linear bandits, resulting in a refined and improved upper bound on regret.  
+  - Introduced a variance-aware mechanism to the framework by incorporating heteroscedasticity across actions moving beyond standard homoscedastic assumptions to derive a more nuanced and practical regret bound that adapts to varying noise levels.  
+  - sAddressed the finite-step LMC setting where sampling is approximately Gaussian by deriving a regret bound explicitly dependent on the number of exploration steps Kt. This bridges asymptotic theory with practical application, demonstrating convergence to the classical linear bandit bound as $K_t \rightarrow \infty$ , while maintaining computational efficiency for finite $K_t$.
   <div style="clear: both;"></div>
 
-- *Apr 2023 – Mar 2025*, [Mobile Perception Lab, ShanghaiTech University](https://mpl.sist.shanghaitech.edu.cn/MPL@shanghaitech.html)  
+#### *Apr 2023 – Mar 2025*, [**Mobile Perception Lab, ShanghaiTech University**](https://mpl.sist.shanghaitech.edu.cn/MPL@shanghaitech.html)  
 <img
   src="images/logos/mpl.jpeg"
   alt="MPL Logo"
@@ -128,12 +128,9 @@ Hi! I'm Panfeng Jiang.
           margin-left: 1em;
           margin-bottom: 1em;"
 /><br><br>
-
-  xxx,
-  xxx,
-  xxx,
-  xxx,
-  xxx  
+*Advisor: Prof. Laurent Kneip*
+- Developed the core real-time detection module for identifying LED matrices, and contributed to the LED encoding and tracking modules ensuring high-precision localization and stable data transmission.
+- Integrated feature trackers including ArcStar and RATE for the second publication, enabling capture of temporally varying key points. This enhanced the extraction of event-based feature locations, supplying the solver with more accurate and richer tracking data for improved ego motion estimation.
   <div style="clear: both;"></div>
 # 💼 Societies
 
