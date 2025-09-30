@@ -68,7 +68,7 @@ Hi! I'm Panfeng Jiang.
   <div style="clear: both;"></div>
 
 # 📝 Publications 
- <code class="language-plaintext highlighter-rouge">ALT 2026</code> **Panfeng  Jiang**, Max Van Fleet, Waiting Zhang, “**Improved Analysis For Variance-Aware Langevin Monte Carlo Thompson Sampling,**” September 2025, **Submitted**, The 37th International Conference on Algorithmic Learning Theory(ALT)  
+ <code class="language-plaintext highlighter-rouge">ALT 2026</code> **Panfeng  Jiang**, Max Van Fleet, Weitong Zhang, “**Improved Analysis For Variance-Aware Langevin Monte Carlo Thompson Sampling,**” September 2025, **Submitted**, The 37th International Conference on Algorithmic Learning Theory(ALT)  
 
   <code class="language-plaintext highlighter-rouge">ICRA 2026</code> **Panfeng Jiang** <sup>1</sup>,**Yunchuan Li** <sup>1</sup> , Junting Chen, Jiacheng Du, Zixuan Chen, Chenrui Tie, Jiajun Deng, Lin Shao,“**LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating,**” September 2025, **Under Review**, The 2026 IEEE International Conference on Robotics & Automation (ICRA)  
 
@@ -138,10 +138,18 @@ International Conference on Computer Vision (ICCV)
   <div style="clear: both;"></div>
 # 💼 Activities
 
-- *Jul 2023 - Aug 2023*, Teaching Assistant in New Oriental Education & Technology Group Inc.
-- *Jul 2023 - Mar 2025*, Staff & Referee in Rubik’s Cube competitions, including Bay Area Speedcubin’65 - Berkeley 2024, Berkeley Fall 2024, Berkeley October Weekday Tricubealon 2024, Cool Down Berkeley 2024, and
-Changsha Rubik’s Cube Open 2023..
-- *Aug 2023 - Aug 2024*, served as a volunteer in ShanghaiTech summer camp, Shanghai Planetarium,Shanghai Library as well as Shanghai Marathon 2023.
+- *Aug 2025 – Present*, **Teaching Assistant, CS101A Data Structure (ShanghaiTech Honor Class)**
+  - Assisted in designing and launching the university’s first honors-level data structure course.
+  - Developed syllabus, programming assignments, and advanced instructional materials tailored for high-achieving students.
+
+- *Jul 2025*, **Designer, “1001 Inventions” Curation – Humanities Institute of ShanghaiTech**
+  - Designed a geometric pattern for a specialized Rubik’s Cube, selected for the Institute’s “1001 Inventions” exhibition.
+  - Inspired by historical motifs; tessellation integrates mathematical precision with aesthetic innovation, recognized for conceptual depth and distinctive visual appeal.
+
+- *Jul 2023 – Mar 2025*, **Staff & Referee, Official Rubik’s Cube Competitions**
+  - Officiated events including Bay Area Speedcubin’ 65 (Berkeley 2024), Berkeley Fall 2024, Berkeley October Weekday Tricubealon 2024, Cool Down Berkeley 2024, and Changsha Rubik’s Cube Open 2023.
+  - Enforced competition regulations to ensure fair play; coordinated competitor flow and managed stations to keep events on pace; supported logistics including setup, registration, and awards.
+
 
 
 
@@ -149,15 +157,14 @@ Changsha Rubik’s Cube Open 2023..
 
 <!-- Project -->
 <h2 id="ICRA 2026(Under Review)" style="display: flex; align-items: center; justify-content: space-between;">
-  <span>LISN: Language-Instructed Social Navigation with VLM-based
-Controller Modulatings </span>
+  <span>LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating </span>
   <span style="font-size: 0.8em;">
     <!-- <a href="https://arxiv.org/pdf/2507.22733" target="_blank" style="margin-left: 10px;">[Paper]</a> -->
     <a href="images/projects/ICRA2026.mp4" target="_blank" style="margin-left: 10px;">[Video]</a>
   </span>
 </h2>
 <p style="color: #f57c00; font-weight: bold; margin-top: -10px;">
-  This work has been submitted to ICRA 2026 and is currently under review</a>.
+  This work has been submitted to ICRA 2026 and is currently under review.
 </p>
 <div class='paper-box'>
 <div class='paper-box-image'>
