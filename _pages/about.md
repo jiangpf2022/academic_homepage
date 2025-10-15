@@ -68,6 +68,10 @@ Hi! I'm Panfeng Jiang.
   <div style="clear: both;"></div>
 
 # 📝 Publications 
+ <code class="language-plaintext highlighter-rouge">Under Review</code> **Panfeng  Jiang**, Max Van Fleet, Weitong Zhang, “**Improved Analysis For Variance-Aware Langevin Monte Carlo Thompson Sampling,**” September 2025, **Submitted**
+
+  <code class="language-plaintext highlighter-rouge">Under Review</code> **Panfeng Jiang** <sup>1</sup>,**Yunchuan Li** <sup>1</sup> , Junting Chen, Jiacheng Du, Zixuan Chen, Chenrui Tie, Jiajun Deng, Lin Shao,“**LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating,**” September 2025, **Under Review**
+
 <code class="language-plaintext highlighter-rouge">ICCV 2025</code> Hang Su, Yunlong Feng, Daniel Gehrig, **Panfeng Jiang**, Ling Gao, Xavier Lagorce, Laurent Kneip . "[**A Linear N-Point Solver for Structure and Motion from Asynchronous Tracks**](https://arxiv.org/pdf/2507.22733)."   May 2025, **Accepted (Highlight Paper)**, the IEEE/CVF
 International Conference on Computer Vision (ICCV)
 
@@ -151,7 +155,28 @@ International Conference on Computer Vision (ICCV)
 
 # 🔍 Projects
 
+<!-- Project -->
+<h2 id="(Under Review)" style="display: flex; align-items: center; justify-content: space-between;">
+  <span>LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating </span>
+  <span style="font-size: 0.8em;">
+    <!-- <a href="https://arxiv.org/pdf/2507.22733" target="_blank" style="margin-left: 10px;">[Paper]</a> -->
+    <a href="images/projects/ICRA2026.mp4" target="_blank" style="margin-left: 10px;">[Video]</a>
+  </span>
+</h2>
+<p style="color: #f57c00; font-weight: bold; margin-top: -10px;">
+  This work has been submitted to a conference and is currently under review.
+</p>
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div class="badge">May 2025 - Oct 2025</div>
+<img src='images/projects/ICRA2026.png' alt="sym" width="100%">
+</div>
+<div class='paper-box-text' markdown="1">
 
+Towards human-robot coexistence, socially aware navigation is significant for mobile robots. Yet existing studies on this area focus mainly on path efficiency and pedestrian collision avoidance, which are essential but represent only a fraction of social navigation. Beyond these basics, robots must also comply with user instructions, aligning their actions to task goals and social norms expressed by humans. In this work, we present LISN-Bench, the first simulation-based benchmark for language-instructed social navigation. Built on Rosnav-Arena 3.0, it is the first standardized social navigation benchmark to incorporate instruction following and scene understanding across diverse contexts. To address this task, we further propose Social-Nav-Modulator, a fast–slow hierarchical system where a VLM agent modulates costmaps and controller parameters. Decoupling low-level action generation from the slower VLM loop reduces reliance on high-frequency VLM inference while improving dynamic avoidance and perception adaptability. Our method achieves an average success rate of 91.3%, which is greater than 63% than the most competitive baseline, with most of the improvements observed in challenging tasks such as following a person in a crowd and navigating while strictly avoiding instruction-forbidden regions.
+
+
+</div>
 <!-- Project -->
 <h2 id="ICCV 2025" style="display: flex; align-items: center; justify-content: space-between;">
   <span>A Linear N-Point Solver for Structure and Motion from Asynchronous Tracks </span>
