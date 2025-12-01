@@ -29,12 +29,18 @@ I am [Panfeng (Gavin) Jiang](https://jiangpf2022.github.io/), a senior undergrad
 </div>
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 Our paper “[**A Linear N-Point Solver for Structure and Motion from Asynchronous Tracks**](https://arxiv.org/pdf/2507.22733)” was accepted as a **Highlight Paper** at ICCV 2025.
 - *2025.05*: &nbsp;🎉🎉 Our team won the **Outstanding Winner Award and AMS Award** at the Mathematical Contest In Modeling 2025.
-- *2025.03*: &nbsp;🎉🎉 Our team won **the first place** at the Bay Area Data Science Summit 2025 with a Multi-Layer Perceptron and greedy strategy for equity derivative hedging, achieving strong performance in cost reduction and risk control.
+- *2025.03*: &nbsp;🎉🎉 Our team won **the first place** at the Bay Area Data Science Summit 2025 with a Multi-Layer Perceptron and greedy strategy for equity derivative hedging, achieving strong performance in cost reduction and risk control. -->
 
+# 📝 Publications 
+ <code class="language-plaintext highlighter-rouge">Under Review</code> **Panfeng  Jiang**, Max Van Fleet, Weitong Zhang, “**Improved Analysis For Variance-Aware Langevin Monte Carlo Thompson Sampling,**” September 2025, **Submitted**
 
+  <code class="language-plaintext highlighter-rouge">Under Review</code> **Panfeng Jiang** <sup>1</sup>,**Yunchuan Li** <sup>1</sup> , Junting Chen, Jiacheng Du, Zixuan Chen, Chenrui Tie, Jiajun Deng, Lin Shao,“**LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating,**” September 2025, **Under Review**
+
+<code class="language-plaintext highlighter-rouge">ICCV 2025</code> Hang Su, Yunlong Feng, Daniel Gehrig, **Panfeng Jiang**, Ling Gao, Xavier Lagorce, Laurent Kneip . "[**A Linear N-Point Solver for Structure and Motion from Asynchronous Tracks**](https://arxiv.org/pdf/2507.22733)."   May 2025, **Accepted (Highlight Paper)**, the IEEE/CVF
+International Conference on Computer Vision (ICCV)
 # 📖 Educations
 
 - *Aug 2024 – Jun 2025*, [University of California, Berkeley](https://www.berkeley.edu/)  
@@ -66,13 +72,7 @@ I am [Panfeng (Gavin) Jiang](https://jiangpf2022.github.io/), a senior undergrad
   **2023 ShanghaiTech Merit Student Award (Top 10%)**. 
   <div style="clear: both;"></div>
 
-# 📝 Publications 
- <code class="language-plaintext highlighter-rouge">Under Review</code> **Panfeng  Jiang**, Max Van Fleet, Weitong Zhang, “**Improved Analysis For Variance-Aware Langevin Monte Carlo Thompson Sampling,**” September 2025, **Submitted**
 
-  <code class="language-plaintext highlighter-rouge">Under Review</code> **Panfeng Jiang** <sup>1</sup>,**Yunchuan Li** <sup>1</sup> , Junting Chen, Jiacheng Du, Zixuan Chen, Chenrui Tie, Jiajun Deng, Lin Shao,“**LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating,**” September 2025, **Under Review**
-
-<code class="language-plaintext highlighter-rouge">ICCV 2025</code> Hang Su, Yunlong Feng, Daniel Gehrig, **Panfeng Jiang**, Ling Gao, Xavier Lagorce, Laurent Kneip . "[**A Linear N-Point Solver for Structure and Motion from Asynchronous Tracks**](https://arxiv.org/pdf/2507.22733)."   May 2025, **Accepted (Highlight Paper)**, the IEEE/CVF
-International Conference on Computer Vision (ICCV)
 
 # 🏅Awards
 - *Jun 2025*, **Outstanding Winner Award (Top 0.1%)**, Mathematical Contest in Modeling 2025 (MCM) 
