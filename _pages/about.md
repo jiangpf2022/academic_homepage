@@ -22,11 +22,10 @@ redirect_from:
 <!-- I joined the Mobile Perception Lab at ShanghaiTech University since the spring of 2023, where I work under the guidance of Ph.D. student Hang Su and Prof. Laurent Kneip. My previous projects primarily focused on event-camera-based SLAM for real-time 3D environment understanding and robust motion tracking in dynamic scenarios. -->
 
 <!-- My research interests span computer vision, SLAM (Simultaneous Localization and Mapping), machine learning and deep learning.  -->
-Hi! I'm Panfeng Jiang.
+I am [Panfeng (Gavin) Jiang](https://jiangpf2022.github.io/), a senior undergraduate majoring in Computer Science at the [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/sist_en/) of [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/). My research interests are in vision-language models, reinforcement learning, and deep learning. Previously, I completed a research project in the group of [Dr.Lin Shao](https://linsats.github.io/) at the [National University of Singapore](https://www.nus.edu.sg/), and worked remotely with [Dr.Weitong Zhang](https://zeroweight.github.io/) on theoretical foundations of reinforcement learning. Before that, since Spring 2023, I have been a research intern in the [Mobile Perception Lab](https://mpl.sist.shanghaitech.edu.cn/MPL%40shanghaitech.html) at ShanghaiTech University, advised by [Prof.Laurent Kneip](https://sist.shanghaitech.edu.cn/lkneip/main.htm), working on event-based vision.
 
 <div style="border: 2px solid #ff6347; padding: 12px; margin-top: 20px; background-color: #fff5f5;">
   <strong style="color: #c00;">⚠️ I am currently looking for Master's/Ph.D. positions for Fall 2026.</strong><br>
-  If you have or know of any suitable and well-matched projects, please feel free to reach out to me via email!
 </div>
 
 
