@@ -22,7 +22,7 @@ redirect_from:
 <!-- I joined the Mobile Perception Lab at ShanghaiTech University since the spring of 2023, where I work under the guidance of Ph.D. student Hang Su and Prof. Laurent Kneip. My previous projects primarily focused on event-camera-based SLAM for real-time 3D environment understanding and robust motion tracking in dynamic scenarios. -->
 
 <!-- My research interests span computer vision, SLAM (Simultaneous Localization and Mapping), machine learning and deep learning.  -->
-I am [Panfeng (Gavin) Jiang](https://jiangpf2022.github.io/), a senior undergraduate majoring in Computer Science at the [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/sist_en/) of [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/). My research interests are in vision-language models, reinforcement learning, and deep learning. Previously, I completed a research project in the group of [Dr.Lin Shao](https://linsats.github.io/) at the [National University of Singapore](https://www.nus.edu.sg/), and worked remotely with [Dr.Weitong Zhang](https://zeroweight.github.io/) at the [University of North Carolina at Chapel Hill](https://www.unc.edu/) on theoretical foundations of reinforcement learning. Before that, since Spring 2023, I have been a research intern in the [Mobile Perception Lab](https://mpl.sist.shanghaitech.edu.cn/MPL%40shanghaitech.html) at ShanghaiTech University, advised by [Prof.Laurent Kneip](https://sist.shanghaitech.edu.cn/lkneip/main.htm), working on event-based vision.
+I am [Panfeng (Gavin) Jiang](https://jiangpf2022.github.io/), a senior undergraduate majoring in Computer Science at the [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/sist_en/) of [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/). My research interests are in vision-language models, reinforcement learning, and deep learning. I have been fortunate to conduct research under the mentorship of several leading scholars. Previously, I completed a research project in the group of [Dr.Lin Shao](https://linsats.github.io/) at the [National University of Singapore](https://www.nus.edu.sg/), and worked remotely with [Dr.Weitong Zhang](https://zeroweight.github.io/) at the [University of North Carolina at Chapel Hill](https://www.unc.edu/) on theoretical foundations of reinforcement learning. Before that, since Spring 2023, I have been a research intern in the [Mobile Perception Lab](https://mpl.sist.shanghaitech.edu.cn/MPL%40shanghaitech.html) at ShanghaiTech University, advised by [Prof.Laurent Kneip](https://sist.shanghaitech.edu.cn/lkneip/main.htm), working on event-based vision.
 
 <div style="border: 2px solid #ff6347; padding: 12px; margin-top: 20px; background-color: #fff5f5;">
   <strong style="color: #c00;">⚠️ I am currently looking for Master's/Ph.D. positions for Fall 2026.</strong><br>
@@ -69,7 +69,8 @@ International Conference on Computer Vision (ICCV)
 
   Bachelor of Engineering in Computer Science,  
   Minor in Mathematics & Applied Mathematics  (GPA: 3.81/4.0),   
-  **2023 ShanghaiTech Merit Student Award (Top 10%)**. 
+  **2025 ShanghaiTech Outstanding Student Award(Top 2%)**,  
+  **2023 ShanghaiTech Merit Student Award (Top 10%)**.
   <div style="clear: both;"></div>
 
 
