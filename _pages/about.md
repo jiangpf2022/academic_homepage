@@ -66,6 +66,7 @@ International Conference on Computer Vision (ICCV)
 /><br><br>
 
   Bachelor of Engineering in Computer Science,   (GPA: 3.75/4.0),   
+  **•	Outstanding Graduate of ShanghaiTech University**, 
   **2025 ShanghaiTech Outstanding Student Award(Top 2%)**,  
   **2023 ShanghaiTech Merit Student Award (Top 10%)**.
   <div style="clear: both;"></div>
@@ -85,6 +86,7 @@ International Conference on Computer Vision (ICCV)
   <div style="clear: both;"></div>
 
 # 🏅Awards
+- *Dec 2025*, **National Scholarship**
 - *Jun 2025*, **Outstanding Winner Award (Top 0.1%)**, Mathematical Contest in Modeling 2025 (MCM) 
 - *Jun 2025*, **American Mathematical Society Award**, Mathematical Contest in Modeling 2025 (Top 3 / 21,054)
 - *Mar 2025*, **First Place Winner**, Bay Area Data Science Summit 2025 @ UC Berkeley endorsed by Wells Fargo .
