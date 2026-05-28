@@ -176,7 +176,7 @@ International Conference on Computer Vision (ICCV)
   </span>
 </h2>
 <p style="color: #f57c00; font-weight: bold; margin-top: -10px;">
-  This work has been accepted as highlight paper at 
+  This work has been accepted at 
   <a href="https://2026.ieee-icra.org/" target="_blank" style="color: #f57c00; text-decoration: underline; font-weight: bold;">ICRA 2026</a>.
 </p>
 <div class='paper-box'>
