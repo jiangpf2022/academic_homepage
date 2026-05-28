@@ -43,17 +43,21 @@ I am [Panfeng (Gavin) Jiang](https://jiangpf2022.github.io/), a senior undergrad
 International Conference on Computer Vision (ICCV)
 # 📖 Educations
 
-- *Incoming Fall 2026*, [Columbia University](https://www.shanghaitech.edu.cn)  
+- *Incoming Fall*, [ShanghaiTech University](https://www.shanghaitech.edu.cn)  
 <img
-  src="images/logos/cu.png"
-  alt="Columbia Logo"
+  src="images/projects/shanghaitech.png"
+  alt="ShanghaiTech Logo"
   style="float: right;
           height: 12em;
           margin-left: 1em;
           margin-bottom: 1em;"
 /><br><br>
 
-  Master of Science Program in Computer Science.
+  Bachelor of Engineering in Computer Science,  
+  Minor in Mathematics & Applied Mathematics  (GPA: 3.81/4.0),   
+  **2025 ShanghaiTech Outstanding Student Award(Top 2%)**,  
+  **2023 ShanghaiTech Merit Student Award (Top 10%)**.
+  <div style="clear: both;"></div>
 
 - *Sep 2022 – Jun 2026*, [ShanghaiTech University](https://www.shanghaitech.edu.cn)  
 <img
@@ -65,7 +69,8 @@ International Conference on Computer Vision (ICCV)
           margin-bottom: 1em;"
 /><br><br>
 
-  Bachelor of Engineering in Computer Science,   (GPA: 3.75/4.0),   
+  Bachelor of Engineering in Computer Science,  
+  Minor in Mathematics & Applied Mathematics  (GPA: 3.81/4.0),   
   **2025 ShanghaiTech Outstanding Student Award(Top 2%)**,  
   **2023 ShanghaiTech Merit Student Award (Top 10%)**.
   <div style="clear: both;"></div>
