@@ -54,6 +54,7 @@ International Conference on Computer Vision (ICCV)
 /><br><br>
 
   Master of Science Program in Computer Science.
+  <div style="clear: both;"></div>
 
 - *Sep 2022 – Jun 2026*, [ShanghaiTech University](https://www.shanghaitech.edu.cn)  
 <img
