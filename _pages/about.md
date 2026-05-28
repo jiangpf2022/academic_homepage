@@ -156,7 +156,7 @@ International Conference on Computer Vision (ICCV)
 # 🔍 Projects
 
 <!-- Project -->
-<h2 id="(Under Review)" style="display: flex; align-items: center; justify-content: space-between;">
+<h2 id="ICRA 2026" style="display: flex; align-items: center; justify-content: space-between;">
   <span>LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating </span>
   <span style="font-size: 0.8em;">
     <!-- <a href="https://arxiv.org/pdf/2507.22733" target="_blank" style="margin-left: 10px;">[Paper]</a> -->
@@ -164,7 +164,8 @@ International Conference on Computer Vision (ICCV)
   </span>
 </h2>
 <p style="color: #f57c00; font-weight: bold; margin-top: -10px;">
-  This work has been submitted to a conference and is currently under review.
+  This work has been accepted as highlight paper at 
+  <a href="https://2026.ieee-icra.org/" target="_blank" style="color: #f57c00; text-decoration: underline; font-weight: bold;">ICRA 2026</a>.
 </p>
 <div class='paper-box'>
 <div class='paper-box-image'>
