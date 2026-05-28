@@ -45,7 +45,7 @@ International Conference on Computer Vision (ICCV)
 
 - *Incoming Fall 2026*, [Columbia University](https://www.shanghaitech.edu.cn)  
 <img
-  src="images/logos/cu.png"
+  src="images/logos/cu.jpg"
   alt="Columbia Logo"
   style="float: right;
           height: 12em;
