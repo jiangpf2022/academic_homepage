@@ -24,9 +24,9 @@ redirect_from:
 <!-- My research interests span computer vision, SLAM (Simultaneous Localization and Mapping), machine learning and deep learning.  -->
 I am [Panfeng (Gavin) Jiang](https://jiangpf2022.github.io/), a senior undergraduate majoring in Computer Science at the [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/sist_en/) of [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/). My research interests are in vision-language models, reinforcement learning, and deep learning. I have been fortunate to conduct research under the mentorship of several leading scholars. Previously, I completed a research project in the group of [Dr.Lin Shao](https://linsats.github.io/) at the [National University of Singapore](https://www.nus.edu.sg/), and worked remotely with [Dr.Weitong Zhang](https://zeroweight.github.io/) at the [University of North Carolina at Chapel Hill](https://www.unc.edu/) on theoretical foundations of reinforcement learning. Before that, since Spring 2023, I have been a research intern in the [Mobile Perception Lab](https://mpl.sist.shanghaitech.edu.cn/MPL%40shanghaitech.html) at ShanghaiTech University, advised by [Prof.Laurent Kneip](https://sist.shanghaitech.edu.cn/lkneip/main.htm), working on event-based vision.
 
-<div style="border: 2px solid #ff6347; padding: 12px; margin-top: 20px; background-color: #fff5f5;">
+<!-- <div style="border: 2px solid #ff6347; padding: 12px; margin-top: 20px; background-color: #fff5f5;">
   <strong style="color: #c00;">⚠️ I am currently looking for Master's/Ph.D. positions for Fall 2026.</strong><br>
-</div>
+</div> -->
 
 
 <!-- # 🔥 News
@@ -35,9 +35,9 @@ I am [Panfeng (Gavin) Jiang](https://jiangpf2022.github.io/), a senior undergrad
 - *2025.03*: &nbsp;🎉🎉 Our team won **the first place** at the Bay Area Data Science Summit 2025 with a Multi-Layer Perceptron and greedy strategy for equity derivative hedging, achieving strong performance in cost reduction and risk control. -->
 
 # 📝 Publications 
- <code class="language-plaintext highlighter-rouge">Under Review</code> **Panfeng  Jiang**, Max Van Fleet, Weitong Zhang, “**Improved Analysis For Variance-Aware Langevin Monte Carlo Thompson Sampling,**” September 2025, **Submitted**
+ <!-- <code class="language-plaintext highlighter-rouge">Under Review</code> **Panfeng  Jiang**, Max Van Fleet, Weitong Zhang, “**Improved Analysis For Variance-Aware Langevin Monte Carlo Thompson Sampling,**” September 2025, **Submitted** -->
 
-  <code class="language-plaintext highlighter-rouge">Under Review</code> **Panfeng Jiang** <sup>1</sup>,**Yunchuan Li** <sup>1</sup> , Junting Chen, Jiacheng Du, Zixuan Chen, Chenrui Tie, Jiajun Deng, Lin Shao,“**LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating,**” September 2025, **Under Review**
+  <code class="language-plaintext highlighter-rouge">ICRA 2026</code> Junting Chen<sup>1</sup>, Yunchuan Li <sup>1</sup> , **Panfeng Jiang** <sup>1</sup>, Jiacheng Du, Zixuan Chen, Chenrui Tie, Jiajun Deng, Lin Shao,“**LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating,**” September 2025, **Under Review**
 
 <code class="language-plaintext highlighter-rouge">ICCV 2025</code> Hang Su, Yunlong Feng, Daniel Gehrig, **Panfeng Jiang**, Ling Gao, Xavier Lagorce, Laurent Kneip . "[**A Linear N-Point Solver for Structure and Motion from Asynchronous Tracks**](https://arxiv.org/pdf/2507.22733)."   May 2025, **Accepted (Highlight Paper)**, the IEEE/CVF
 International Conference on Computer Vision (ICCV)
