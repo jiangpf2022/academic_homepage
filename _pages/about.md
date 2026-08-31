@@ -25,7 +25,15 @@ redirect_from:
 <!-- I am [Panfeng (Gavin) Jiang](https://jiangpf2022.github.io/), a senior undergraduate majoring in Computer Science at the [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/sist_en/) of [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/). My research interests are in vision-language models, reinforcement learning, and deep learning. I have been fortunate to conduct research under the mentorship of several leading scholars. Previously, I completed a research project in the group of [Dr.Lin Shao](https://linsats.github.io/) at the [National University of Singapore](https://www.nus.edu.sg/), and worked remotely with [Dr.Weitong Zhang](https://zeroweight.github.io/) at the [University of North Carolina at Chapel Hill](https://www.unc.edu/) on theoretical foundations of reinforcement learning. Before that, since Spring 2023, I have been a research intern in the [Mobile Perception Lab](https://mpl.sist.shanghaitech.edu.cn/MPL%40shanghaitech.html) at ShanghaiTech University, advised by [Prof.Laurent Kneip](https://sist.shanghaitech.edu.cn/lkneip/main.htm), working on event-based vision. -->
 
 I am [Panfeng (Gavin) Jiang](https://jiangpf2022.github.io/), currently pursuing an M.S. in Computer Science at [Columbia University](https://www.columbia.edu/). I received my B.Eng. in Computer Science from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) and spent an academic year at the [University of California, Berkeley](https://www.berkeley.edu/) as an exchange student. My interests broadly span machine learning, sequential decision-making, LLMs, and embodied & multimodal AI. I have been fortunate to gain research experience across both theory and applications, working with [Dr. Weitong Zhang](https://zeroweight.github.io/) at the [University of North Carolina at Chapel Hill](https://www.unc.edu/) on learning and decision-making under uncertainty, with [Dr. Lin Shao](https://linsats.github.io/) at the [National University of Singapore](https://www.nus.edu.sg/) on vision-language models and robotic navigation, and with [Prof. Laurent Kneip](https://sist.shanghaitech.edu.cn/lkneip/main.htm) at the [Mobile Perception Lab](https://mpl.sist.shanghaitech.edu.cn/MPL%40shanghaitech.html) on event-based vision and perception.
-
+# 🏅Awards
+- *Jun 2026*, **Outstanding Graduate with “Dadao Xingze” Honors of Dadao College**
+- *Jun 2026*, **Outstanding Graduate of Shanghai**
+- *Jun 2026*, **Outstanding Graduate of ShanghaiTech University**
+- *Dec 2025*, **National Scholarship**
+- *Jun 2025*, **Outstanding Winner Award (Top 0.1%)**, Mathematical Contest in Modeling 2025 (MCM) 
+- *Jun 2025*, **American Mathematical Society Award**, Mathematical Contest in Modeling 2025 (Top 3 / 21,054)
+- *Mar 2025*, **First Place Winner**, Bay Area Data Science Summit 2025 @ UC Berkeley endorsed by Wells Fargo .
+- *Sep 2024*, **Provincial Third Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM).
 <!-- <div style="border: 2px solid #ff6347; padding: 12px; margin-top: 20px; background-color: #fff5f5;">
   <strong style="color: #c00;">⚠️ I am currently looking for Master's/Ph.D. positions for Fall 2026.</strong><br>
 </div> -->
@@ -45,7 +53,7 @@ I am [Panfeng (Gavin) Jiang](https://jiangpf2022.github.io/), currently pursuing
 International Conference on Computer Vision (ICCV)
 # 📖 Educations
 
-- *Incoming Fall 2026*, [Columbia University](https://www.shanghaitech.edu.cn)  
+- *Aug 2026 - Present*, [Columbia University](https://www.shanghaitech.edu.cn)  
 <img
   src="images/logos/cu.jpg"
   alt="Columbia Logo"
@@ -88,12 +96,7 @@ International Conference on Computer Vision (ICCV)
   **2025 ShanghaiTech International Exchange Program Scholarship（～$14000）**  
   <div style="clear: both;"></div>
 
-# 🏅Awards
-- *Dec 2025*, **National Scholarship**
-- *Jun 2025*, **Outstanding Winner Award (Top 0.1%)**, Mathematical Contest in Modeling 2025 (MCM) 
-- *Jun 2025*, **American Mathematical Society Award**, Mathematical Contest in Modeling 2025 (Top 3 / 21,054)
-- *Mar 2025*, **First Place Winner**, Bay Area Data Science Summit 2025 @ UC Berkeley endorsed by Wells Fargo .
-- *Sep 2024*, **Provincial Third Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM).
+
 # 💻 Research Experience
 
 #### *Jun 2025 – Sep 2025*, **RoboScience Co., Ltd. & Lin Shao's Lab, National University of Singapore**
@@ -120,7 +123,7 @@ International Conference on Computer Vision (ICCV)
 - Built and validated a VLM-driven social navigation pipeline in ROSNav-Arena 2.0, combining fast-slow control architecture with DWA/TEB planners to achieve real-time, collision-free navigation in complex human–robot interaction scenarios.
   <div style="clear: both;"></div>
 
-#### *Apr 2025 – Present*, **Weitong Zhang's Lab, University of North Carolina at Chapel Hill**  
+#### *Apr 2025 – Oct 2025*, **Weitong Zhang's Lab, University of North Carolina at Chapel Hill**  
 *Advisor: Dr.Weitong Zhang*
 <img
   src="images/logos/unc.png"
