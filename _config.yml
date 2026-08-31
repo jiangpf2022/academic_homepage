@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Panfeng Jiang - Academic Homepage"
-description              : "Matriculated undergraduate in ShanghaiTech University, concurrent international in UC Berkeley. Focusing on Computer Vision,Event-based Vision, SLAM, Machine Learning, Deep Learning."
+description              : "M.S. student in Columbia University"
 repository               : "jiangpf2022/academic-page"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Panfeng Jiang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "ShanghaiTech University"
-  location         : "Shanghai, China"
+  bio              : "Columbia University"
+  location         : "New York, NY, US"
   employer         :
   pubmed           : 
   googlescholar    :  https://scholar.google.com.sg/citations?hl=en&user=6h40TxwAAAAJ # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "jiangpf2022@shanghaitech.edu.cn"
+  email            : "pj2479@columbia.edu"
   researchgate     : #https://www.researchgate.net/profile/Haofei-Ma-2 # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : # "https://www.mahaofei.com"
   blog             : "https://jiangpf2022.github.io/"
